@@ -1,0 +1,133 @@
+# [KEYWORDS]
+# #: comment
+# title: yellow
+# hr: header, white
+# sbtxt: subtext, light gray
+# break: empty line
+# margin: (downwards pixel margin as integer)
+
+<margin>8
+<title>Developers:
+<hr>Silveros
+<sbtxt>Creator of ReIndev, Lead Developer
+<hr>DasJafss
+<sbtxt>Co-Lead Developer
+<hr>Fox2Code
+<sbtxt>Developer
+<hr>icanttellyou
+<sbtxt>Developer
+<hr>Zero_DSRS_VX
+<sbtxt>Developer
+<hr>kivattt
+<sbtxt>Developer
+<hr>LemoCoffee
+<sbtxt>Developer
+#
+# sound credits
+#
+<margin>12
+<title>Sound and Music:
+<hr>C418
+<sbtxt>Music
+<hr>Lena Raine
+<sbtxt>Music
+<hr>Axel Scaar
+<sbtxt>Music
+<hr>Markus Alexei Persson
+<sbtxt>Music
+<hr>Freesound.org
+<sbtxt>Sound FX
+#
+# other credits
+#
+<margin>12
+<title>Additional credits:
+<hr>jonkadelic
+<sbtxt>Creator of Photo Mode
+<hr>jss2a98aj
+<sbtxt>Creator of BugTorch
+<hr>Captain_S0L0
+<sbtxt>Improved GUI item movement code
+<hr>M17Glock
+<sbtxt>Helped with improving trapdoor code
+<hr>na_th_an
+<sbtxt>Helped with expanding the texture index
+<hr>alexcrish
+<sbtxt>Inspiration for leaf and blossom particles
+<hr>Tocinin
+<sbtxt>Improved "Merp" painting texture
+<hr>DiamondDump
+<sbtxt>Helped with Stroldian & Demon models
+<hr>boymoderAscetic
+<sbtxt>Retired developer
+#
+# playtesters
+#
+<margin>12
+<title>Playtesters:
+<hr>0xQ / RaptorMocha
+<sbtxt>5pyr
+<hr>Astolfont
+<sbtxt>Atilist
+<hr>AxelScaar
+<sbtxt>batmasterson
+<hr>baby_jeff
+<sbtxt>BlueStaggo
+<hr>Boudicca6969
+<sbtxt>bungering_
+<hr>Captain_S0L0
+<sbtxt>chase6830 / ssb100
+<hr>Comic_Artist67
+<sbtxt>cozziefox
+<hr>Daboss9
+<sbtxt>GeneralGuy64
+<hr>greydogvr
+<sbtxt>guhmps
+<hr>i8ux100
+<sbtxt>joshwa1
+<hr>Katjamm
+<sbtxt>KiraFier
+<hr>leechcop
+<sbtxt>LemoCoffee
+<hr>LudusMachinae
+<sbtxt>M17Glock
+<hr>Mazianek
+<sbtxt>McGuideLines
+<hr>mikaela
+<sbtxt>misery
+<hr>MrZmiley
+<sbtxt>PODEPOM
+<hr>Rambley_
+<sbtxt>RoastyCo
+<hr>RsMonpas
+<sbtxt>ShrimpinPimpin
+<hr>SirKillerFox
+<sbtxt>Snowman64
+<hr>Spud
+<sbtxt>TECHNOMAN341
+<hr>Thx2u
+<sbtxt>ToothyDeerryte
+<hr>Whomdunit
+<sbtxt>WillOfKabr
+<hr>worldtrademark
+<sbtxt>xamer212
+<margin>16
+<title>Honorable mentions:
+<hr>MrZmiley
+<sbtxt>Arenovas
+<hr>MrLordSith
+<sbtxt>DirtPiper
+<hr>AlongCameN4te
+<sbtxt>Vi_The_Fox
+<hr>Sandfops
+<sbtxt>mzov4J
+<hr>BlastFromTheGhast
+<sbtxt>zmarcie
+#
+# misc & copyright
+#
+<margin>12
+<sbtxt>Credits last updated: May 30th, 2025.
+<margin>8
+<sbtxt>© Mojang Studios. Do not distribute.
+<sbtxt>© 2021-2025 Silveros. All Rights Reserved.

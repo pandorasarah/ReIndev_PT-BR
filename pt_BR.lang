@@ -1,0 +1,2981 @@
+title|Português [Brasileiro]
+author|SarahPandora, Mojang Studios
+splashes|lang/splashes-pt_BR.txt
+bidi|false
+credits|lang/credits-pt_BR.txt
+tips|tips-pt_BR.txt
+
+#=====================#
+#                     #
+#VANILLA LANGUAGE KEYS#
+#                     #
+#=====================#
+#
+#This file NEEDS TO BE IN UTF-8 FORMATTING! Do not change this file's formatting to anything else!
+#NOTE TO EDITORS: DO NOT REMOVE, RENAME OR EDIT THIS FILE, OR ANY OTHER DEFAULT LANGUAGE FILE!
+#Make a copy in "languagepacks" and set its name in the options file!
+#Make sure each language has a title and author, as seen on the top rows.
+#Splashes, credits, and tips are optional, but are really nice to have.
+#
+#How to define a splashes, credits or tips file:
+#Append "jar:" to the beginning of this line to use the Minecraft jar as the root folder for splashes/credits/tips.
+#If "jar:" is not present, the "languagepacks" folder in your Minecraft instance folder is used as the root.
+
+#NOTE: Not all the keys in the LANGUAGE ADDON LANGUAGE KEYS section will work in early versions or certain installations of this addon.
+
+menu.copyright1=© Mojang Studios. Não distribua.
+menu.copyright2=© 2021-2025 Silveros. Todos os direitos reservados.
+
+menu.singleplayer=Um Jogador
+menu.multiplayer=Multijogador
+menu.mods=Pacotes de Textura
+menu.tutorial=Jogar Tutorial
+menu.options=Opções
+menu.quit=Sair do jogo
+menu.credits_button=Créditos
+menu.downloading_assets=Baixando recurso %s/%s
+
+menu.languagepacks=Idioma
+menu.title=Minecraft ReIndev
+menu.version=Release %s
+menu.credits=ReIndev Mod criado por Silveros.
+menu.discord=Servidor do Discord
+menu.youtube=Canal do YouTube
+menu.reddit=Reddit
+menu.kofi=Nos ajude no Ko-Fi
+menu.skin_options=Opções de Skin
+
+game.splash.bday=Feliz Aniversário, %s!
+game.splash.xmas=Feliz Natal!
+game.splash.newyear=Feliz Ano Novo!
+game.splash.halloween=OOoooOOOoooo! Assustador!
+game.splash.anniversary=Feliz Aniversário, ReIndev!
+
+gui.done=Concluído
+gui.cancel=Cancelar
+gui.toMenu=Voltar ao menu principal
+gui.up=Cima
+gui.down=Baixo
+gui.yes=Sim
+gui.no=Não
+
+gui.languagepacks=Idioma
+gui.screenshots=Capturas de Tela
+gui.editSign=Editar mensagem da placa:
+gui.editNameTag=Editar etiqueta:
+gui.editNameTag.default=Etiqueta
+gui.editBlockOutline=Editar cor do contorno do bloco:
+gui.editBlockOutline.number_format_error=Formato de Número é: 0x§cRR§aGG§9BB
+gui.achievements=Conquistas
+
+gui.link.confirm=Tem certeza que deseja abrir o seguinte website?
+gui.link.warning=Nunca abra links de pessoas que você não confia!
+gui.link.open=Abrir no Navegador
+gui.link.copy=Copiar para Área de Tranferência
+
+credits.title=Créditos
+
+controls.title=Controles
+
+guiVideo.appearance=Aparência...
+guiVideo.performance=Performance...
+guiVideo.other=Outros...
+
+texturePack.incompatible=Incompatível
+texturePack.openFolder=Abrir pasta de pacotes
+texturePack.title=Selecione o Pacote de Texturas
+texturePack.folderInfo=(Coloque arquivos dos pacotes de textura aqui)
+
+languagePack.openFolder=Abrir pasta de idiomas
+languagePack.title=Selecione o Idioma
+languagePack.folderInfo=(Coloque arquivos dos pacotes de idioma aqui)
+
+screenshot.success=Salvo captura de tela como %s
+screenshot.panorama_success=Salvo captura de tela panorâmica.
+screenshot.failure=Pode ter falhado em salvar corretamente: %s
+
+gui.world.generating=Gerando Fase
+gui.world.loading=Carregando Fase
+gui.world.buildTerrain=Constuindo Terreno
+gui.world.enterNether=Entrando no Nether
+gui.world.leaveNether=Saindo do Nether
+gui.world.changeDimension=Mudando dimensão
+gui.world.simulating=Simulando Mundo um Pouquinho
+gui.world.saveChunks=Salvando Chunks
+gui.world.saveLevel=Salvando Fase
+gui.world.deleteLevel=Deletando Fase
+gui.world.convert1=Convertendo Mundo para %s
+gui.world.convert2=Isso deve levar um tempo. :)
+gui.world.respawn=Renascendo...
+
+gui.world.raising=Crescendo...
+gui.world.eroding=Erodindo...
+gui.world.soiling=Solidificando...
+gui.world.growing=Aumentando...
+gui.world.carving=Carvando...
+gui.world.melting=Derretendo...
+gui.world.watering=Aguando...
+gui.world.building=Construindo...
+gui.world.planting=Plantando...
+gui.world.lighting=Iluminando...
+gui.world.finishing=Finalizando...
+
+# %s - dica selecionada
+gui.tip=Dica: %s
+
+gui.photomode.title=Modo Fotográfico
+gui.photomode.screenshot=Capturar Tela
+gui.photomode.time=Hora do Dia: 
+# %s - valor
+# %d - string dos graus
+gui.photomode.tilt=Inclinação: %s %d
+gui.photomode.degrees= graus
+gui.photomode.fog=Distância da Névoa: 
+gui.photomode.fogtoggle=Névoa: 
+gui.photomode.center=Centralizar Vista
+gui.photomode.togglegui=Alternar Interface
+
+gui.cuneiform.finish=Terminar de escrever
+
+gui.conflictWarning1=Conflito de salvamento da fase
+gui.conflictWarning2=Minecraft detectou um conflito nos dados de salvamento da fase.
+gui.conflictWarning3=Isso pode ter sido causado por duas cópias do jogo
+gui.conflictWarning4=acessando a mesma fase.
+gui.conflictWarning5=Para prevenir corrupção da fase, o atual jogo fechou.
+
+gui.err.header=Sem mais memória!
+gui.err.msg0=Minecraft ficou sem memória.
+gui.err.msg1=Isso pode ter sido causado por um bug no jogo ou pela
+gui.err.msg2=Máquina Virtual de Java (JVM) não tendo memória alocada
+gui.err.msg3=suficiente. Se isso acontecer de novo, considere
+gui.err.msg4=dar mais RAM ao Minecraft.
+gui.err.msg5=Para prevenir corrupção da fase, o atual jogo fechou.
+gui.err.footer=Por favor reinicie o jogo.
+
+inGameMenu.saveAndQuitToTitle=Salvar e Voltar ao Menu Principal
+inGameMenu.disconnect=Desconectar
+inGameMenu.backToGame=Voltar ao Jogo
+inGameMenu.savingLevel=Salvando Fase...
+inGameMenu.gameMenu=Menu do Jogo
+
+inventory.generic=Inventário
+inventory.crafting=Fabricação
+inventory.furnace=Fornalha
+inventory.forge=Forja
+inventory.chest=Baú
+inventory.largechest=Baú Grande
+inventory.crate=Caixote
+inventory.dispenser=Ejetor
+inventory.incinerator=Incinerador
+inventory.refridgifreezer=Congeladeira
+inventory.carpentry_table=Bancada de Carpintaria
+inventory.dimensional_chest=Baú Dimensional
+inventory.creative=Seleção de item
+inventory.search=Buscar...
+
+inventory.creative_mode_tab.inventory=Inventário
+inventory.creative_mode_tab.creative_inventory=Inventário do Criativo
+inventory.creative_mode_tab.clear_items=Limpar Itens
+inventory.creative_mode_tab.building_blocks=Blocos de Construção
+inventory.creative_mode_tab.natural_blocks=Blocos Naturais
+inventory.creative_mode_tab.colored_blocks=Blocos Coloridos
+inventory.creative_mode_tab.functional_blocks=Blocos Funcionais
+inventory.creative_mode_tab.mechanical_blocks=Blocos Mecânicos
+inventory.creative_mode_tab.tools_and_equipment=Ferramentas e Equipamento
+inventory.creative_mode_tab.foodstuffs=Alimentos
+inventory.creative_mode_tab.potions=Poções
+inventory.creative_mode_tab.miscellaneous=Miscelânea
+inventory.creative_mode_tab.spawn_eggs=Ovos Geradores
+
+deathScreen.respawn=Renascer
+deathScreen.deleteWorld=Deletar mundo
+deathScreen.titleScreen=Menu Principal
+deathScreen.score=Pontuação
+deathScreen.highscore=Recorde
+deathScreen.newHighscore=Novo Recorde!
+deathScreen.title.hardcore=Fim de jogo!
+deathScreen.hardcoreInfo=Você não pode renascer no modo hardcore!
+deathScreen.title=Você morreu!
+
+gameMode.survival=Modo Sobrevivência
+gameMode.creative=Modo Criativo
+gameMode.hardcore=Modo Hardcore!
+
+selectWorld.title=Selecinar Mundo
+selectWorld.empty=vazio
+selectWorld.world=Mundo
+selectWorld.select=Jogar no Mundo Selecionado
+selectWorld.create=Criar Novo Mundo
+selectWorld.createDemo=Jogar Novo Mundo Demo
+selectWorld.delete=Apagar
+selectWorld.rename=Renomear
+selectWorld.deleteQuestion=Tem certeza que deseja apagar este mundo?
+selectWorld.deleteWarning=será perdido para sempre! (Muito tempo!)
+selectWorld.deleteButton=Apagar
+selectWorld.renameButton=Renomear
+selectWorld.renameTitle=Renomear Mundo
+selectWorld.conversion=Deve ser convertido!
+selectWorld.newWorld=Novo Mundo
+selectWorld.enterName=Nome do Mundo
+selectWorld.resultFolder=Será salvo em:
+selectWorld.enterSeed=Semente para o Gerador de Mundos
+selectWorld.seedInfo=Deixe em branco para uma semente aleatória
+selectWorld.gameMode=Modo de Jogo:
+selectWorld.gameMode.survival=Sobrevivência
+selectWorld.gameMode.survival.line1=Procure por recursos, crie,
+selectWorld.gameMode.survival.line2=barra de vida
+selectWorld.gameMode.creative=Criativo
+selectWorld.gameMode.creative.line1=Recursos ilimitados, voo livre e 
+selectWorld.gameMode.creative.line2=destrua blocos instantaneamente
+selectWorld.gameMode.hardcore=Hardcore
+selectWorld.gameMode.hardcore.line1=Modo sobrevivência, travado na
+selectWorld.gameMode.hardcore.line2=dificuldade máxima, e apenas uma vida
+selectWorld.moreWorldOptions=Mais Opções de Mundo...
+selectWorld.mapFeatures=Gerar Estruturas:
+selectWorld.mapFeatures.info=Fortalezas, masmorras, etc.
+selectWorld.mapType=Tipo de Mundo:
+selectWorld.mapType.normal=Normal
+selectWorld.mapType.flat=Superplano
+selectWorld.mapType.continental=Continental
+selectWorld.mapType.legacy=Legado
+selectWorld.mapType.debug=Debug
+selectWorld.allowCommands=Trapaças:
+selectWorld.allowCommands.info=Comandos como /gamemode, /time
+selectWorld.cheats=Trapaças
+
+multiplayer.title=Jogar Multijogador
+multiplayer.connect=Conectar
+multiplayer.info1=Minecraft Multijogador não está terminado ainda, mas tem
+multiplayer.info2=um teste meio bugado acontecendo.
+multiplayer.ipinfo=Digite o IP de um servidor para se conectar:
+multiplayer.downloadingTerrain=Baixando terreno
+multiplayer.stopSleeping=Levantar
+multiplayer.connectedPlayers=Jogadores Conectados
+multiplayer.responseTime=Tempo de resposta (ping): %sms
+
+disconnect.genericReason=%s
+disconnect.disconnected=Disconectado pelo Servidor
+disconnect.lost=Conexão Perdida
+disconnect.kicked=Foi expulso do jogo
+disconnect.timeout=Tempo esgotado
+disconnect.closed=Conexão terminada
+disconnect.loginFailed=Falha no login
+disconnect.loginFailedInfo=Falha no login: %s
+disconnect.quitting=Saindo
+disconnect.endOfStream=Fim da Transmissão
+disconnect.overflow=Estouro de buffer
+disconnect.authRateLimited=Fez muitos pedidos de autenticação, tente novamente mais tarde.
+
+connect.connecting=Conectando ao servidor...
+connect.authorizing=Entrando...
+connect.failed=Falha ao conetar-se ao servidor
+
+selectServer.login=Entrar
+selectServer.title=Selecionar Servidor
+selectServer.empty=vazio
+selectServer.select=Entrar
+selectServer.direct=Conexão Direta
+selectServer.edit=Editar
+selectServer.delete=Apagar
+selectServer.add=Adicionar servidor
+selectServer.defaultName=Minecraft Server
+selectServer.deleteQuestion=Tem certeza que deseja remover este servidor?
+selectServer.deleteWarning=será perdido para sempre! (Muito tempo!)
+selectServer.deleteButton=Apagar
+selectServer.refresh=Atualizar
+selectServer.hiddenAddress=(Escondido)
+selectServer.polling=Calculando latência...
+selectServer.error.hostname=Não encontra nome do host
+selectServer.error.cantReach=Não alcança o servidor
+selectServer.error.communication=Erro de comunicação
+selectServer.outdated.client=Cliente desatualizado!
+selectServer.outdated.server=Servidor desatualizado!
+selectServer.noConnection=(sem conexão)
+addServer.title=Editar informações do servidor
+addServer.enterName=Nome do Servidor
+addServer.enterIp=Endereço do Servidor
+addServer.add=Concluído
+addServer.hideAddress=Esconder Endereço
+
+demo.day.1=Esta demo durará cinco dias do jogo, bom trabalho!
+demo.day.2=Dia Dois
+demo.day.3=Dia Três
+demo.day.4=Dia Quatro
+demo.day.5=Este é seu último dia!
+demo.day.warning=Seu tempo está quase acabando!
+demo.day.6=Você terminou seu quinto dia, use F2 para salvar uma captura de tela da sua criação
+demo.reminder=O tempo de demo acabou, compre o jogo para continuar ou comece um novo mundo!
+demo.help.movement=Use %1$s, %2$s, %3$s, %4$s e o mouse para se mover
+demo.help.jump=Pule pressionando %1$s
+demo.help.inventory=Pressione %1$s para abrir seu inventário
+
+options.off=Não
+options.on=Sim
+options.default=Padrão
+options.title=Opções
+options.controls=Controles...
+options.video=Configurações de Vídeo...
+options.videoTitle=Configurações de Vídeo
+options.music=Música
+options.sound=Som
+options.invertMouse=Inverter Mouse
+options.sensitivity=Sensibilidade
+options.sensitivity.min=*uaah...*
+options.sensitivity.max=HIPER-RAPIDA!!!
+options.renderDistance=Alcance visual
+options.renderDistance.tiny=Mínima
+options.renderDistance.short=Curta
+options.renderDistance.normal=Normal
+options.renderDistance.far=Longa
+options.renderDistance.chunks=%s Chunks
+options.multisampling=Multisampling: %s%
+options.viewBobbing=Movimentos na Visão
+options.ao=Iluminação Suave
+options.anaglyph=Anáglifo 3D
+options.framerateLimit=Performance
+options.difficulty=Dificuldade
+options.difficulty.peaceful=Pacífico
+options.difficulty.easy=Fácil
+options.difficulty.normal=Normal
+options.difficulty.hard=Difícil
+options.difficulty.hardcore=Hardcore
+options.graphics=Gráficos
+options.cloudsEnabled=Núvens
+options.forceUnicodeFont=Forçar fonte unicode
+options.graphics.fancy=Bonitos
+options.graphics.fast=Rápidos
+options.guiScale=Tamanho da Interface
+options.guiScale.auto=Auto
+options.guiScale.small=1
+options.guiScale.normal=2
+options.guiScale.large=3
+options.advancedOpengl=OpenGL Avançado
+options.flowerItems3D=Itens Cruzados Bonitos
+options.refreshTextures=Atualizar Texturas
+options.language=Idioma...
+options.languageWarning=As traduções podem não estar 100% corretas.
+options.itemsIn3d=Itens 3D
+options.musicInterval=Pausa Músical
+options.doesBackGroundMove=Fundo Movendo
+options.showKeys=Teclas Visuais
+options.ambient=Som Ambiente
+options.fovSetting=FOV
+options.fov.min=Normal
+options.fov.max=Quake Pro
+options.gamma=Gama
+options.gamma.min=Normal
+options.gamma.max=Noturna
+options.warning=*Requer recarregamento para ter efeito
+options.particles=Partículas
+options.sneakToDismount=Agachar para desmontar
+options.renderPanorama=Panorama do Menu
+options.blockOutline=Contorno do Bloco
+options.chunkLoadingSpeed=Velocidade de Carregar Chunk
+options.maxFramerate=Limite de FPS: %sFPS
+options.maxFramerate.unlimited=Limite de FPS: Ilimitado
+options.visionComfort=Comforto da Visão: %s
+options.fullscreen=Tela Cheia
+options.vsync=Sincronização Vertical
+options.vbo=Usar VBOs
+options.animatedTextures=Texturas Animadas
+options.sprintBarBelow=Barra de estamina embaixo
+options.dominantHand=Mão Dominante
+options.dominantHand.right=Direita
+options.dominantHand.left=Esquerda
+options.roundedTooltips=Tooltips Arredondadas
+options.enable_cape=Capa
+options.enable_torso_overlay=Casaco
+options.enable_head_overlay=Chapéu
+options.enable_left_arm_overlay=Manga Esquerda
+options.enable_right_arm_overlay=Manga Direita
+options.enable_left_leg_overlay=Perna Esquerda
+options.enable_right_leg_overlay=Perna Direita
+
+performance.max=FPS Máximo
+performance.balanced=Balanceado
+performance.powersaver=Economia de Energia
+
+key.forward=Frente
+key.left=Esquerda
+key.back=Trás
+key.right=Right
+key.jump=Pular
+key.inventory=Inventário
+key.drop=Largar
+key.chat=Bate-papo
+key.fog=Alternar névoa
+key.sneak=Agachar
+key.sprint=Correr
+key.playerlist=Listar Jogadores
+key.zoom=Zoom
+key.noclip=No Clip
+key.cycleHotbar=Alternar Hotbar
+key.emotes=Emotes
+key.photoMode=Modo Fotográfico
+key.command=Comando
+key.thirdperson=Terceira Pessoa
+key.smoothcamera=Câmera Cinemática
+key.attack=Atacar
+key.use=Usar Item
+key.pickItem=Escolher Bloco
+key.toggleGamemode=Alternar Modo de Jogo
+key.mouseButton=Botão %1$s
+
+command.syntax=Sintaxe
+command.invalid_command=§cComando inválido ou desconhecido!
+command.invalid_biome=§cBioma inválido ou desconhecido!
+command.invalid_biome_id=§cNão há bioma com o ID %s
+command.invalid_player=Não há jogador nomeado 
+command.find_help=§fPara ver a lista de comandos, digite §7 /help§f.
+command.more_help=Para mais ajuda, digite
+command.op_only=§cEste comando é somente para operadores, você não pode usá-lo!
+command.command_name= - Nome do comando: §e
+command.command_list=§eLista de comandos§f:
+command.noConsole=Este comando não está disponível no console
+command.not_a_number=não é um número
+command.biome_does_not_generate=§cEste bioma não é gerado neste mundo!
+
+command.help=§dMostra uma lista de comandos e suas sintaxes.
+command.reload=§dRecarrega comandos e plugins.
+command.saveall=§dSalva todos os mundos no servidor.
+
+command.ban=§dBane o jogador especificado.
+command.banip=§dBane o IP do jogador especificado.
+command.kick=§dExpulsa o jogador especificado do jogo.
+command.pardon=§dPerdoa o jogador especificado.
+command.pardonip=§dPerdoa um IP.
+
+command.kill=§dMata o jogador especificado.
+command.list=§dLista jogadores que ativos.
+command.tell=§dEnvia uma mensagem privada ao jogador especificado.
+command.me=§dTransmite uma mensagem.
+
+command.clear=§dLimpa o inventário do jogador de um item em específico.
+# %s - quantidade removida
+# %p - jogador
+command.clear.success=Limpado %s itens de %p
+
+command.effect=§dAplica um efeito específico ao jogador.
+# %e - efeito
+# %p - jogador
+command.effect.success=Aplicando efeito %e em %p
+command.effect.error=§cEfeito inválido!
+
+command.gamemode=§dDefine o modo de jogo do jogador.
+command.gamemode.changed=Seu modo de jogo foi atualizado
+command.gamemode.error=§cModo de jogo inválido!
+
+command.give=§dDá ao jogador o item especificado.
+command.invalid_item=Não há item com o ID
+command.invalid_stack_size=§cA quantidade deve estar entre 1 e 64!
+command.invalid_entities_selector=Entidade selecionada inválida!
+command.invalid_players_selector=Jogadores selecionados inválidos!
+command.invalid_player_selector=Jogador selecionado inválido!
+
+command.seed=Semente do mundo atual: §a%s
+
+command.time=§dDefine ou adiciona ao tempo atual do jogo.
+command.time.info0=§7Valores podem ser ticks, ou também strings.
+command.time.info1=§7Lista de strings válidas: §dday§7, §dnoon§7, §dsunset§7, and §dnight§7
+# %t - valor do tempo
+command.time.add=%t adicionado ao tempo atual
+command.time.set=Tempo definido para %t
+command.time.day=Define o tempo para dia
+command.time.noon=Define o tempo para meio dia
+command.time.sunset=Define o tempo para pôr do sol
+command.time.night=Define o tempo para noite
+command.invalid_time=Incapaz de converter o valor, %t
+command.invalid_time_method=§cMétodo desconchecido, use \"add\" ou \"set\"
+
+command.tp=§dTeletransporta o jogador para coordenada especificada.
+command.tp.mp=§dTeletransporta <jogador1> para <jogador2>
+command.tp.mp.info0=- OU -
+command.tp.mp.info1=§dTeletransporta você ao <jogador>
+command.tp.error=§cNão pode teletransportar para essa coordenada! (Número fora dos limites.)
+command.tp.teleport_to_coords=Teletransportando para
+command.tp.previously_at=Estava anteriormente em
+command.tp.teleportedTo=Você teletransportou para
+
+command.weather=§dMuda o tempo.
+command.weather.info0=§7Lista de tempos válidos são: §dclear§7, §drain§7, e §dthunder§7
+command.weather.clear=Limpando o tempo
+command.weather.rain=Tempo definido para chuvoso
+command.weather.thunder=Tempo definido para temporal
+command.weather.error=§cTempo inválido!
+
+effect.amnesia.name=Amnésia
+effect.breathing.name=Respiração
+effect.fireres.name=Resistência ao Fogo
+effect.flight.name=Voo
+effect.fragility.name=Fragilidade
+effect.resistance.name=Resistência
+effect.haste.name=Pressa
+effect.jumpboost.name=Supersalto
+effect.miningfatigue.name=Exaustão
+effect.poison.name=Veneno
+effect.regeneration.name=Regeneração
+effect.slowness.name=Lentidão
+effect.speed.name=Velocidade
+effect.amongus.name=você fede : )
+effect.strength.name=Força
+effect.weakness.name=Fraqueza
+effect.slipperiness.name=Escorregadio
+effect.building.name=Construção
+effect.diamondized.name=Diamantizado
+effect.adrenaline.name=Adrenalina
+effect.languor.name=Languidez
+effect.curse.name=Maldição
+effect.wither.name=Decomposição
+effect.acidres.name=Resistência ao Ácido
+effect.infected.name=Infectado
+
+emote.selection=Selecionar Emote:
+emote.heart=Corações
+emote.sleep=Soninho
+emote.anger=Raiva
+emote.shine=Brilho
+emote.note=Notas Musicais
+emote.fox=Raposas
+emote.smoke=Fumaça
+
+painting.kebab="Kebab"
+painting.aztec="Aztec"
+painting.alban="Alban"
+painting.aztec2="Aztec (2)"
+painting.bomb="Bomb"
+painting.plant="Plant"
+painting.wasteland="Wasteland"
+painting.pool="Pool"
+painting.courbet="Courbet"
+painting.sea="Sea"
+painting.sunset="Sunset"
+painting.creebet="Creebet"
+painting.wanderer="Wanderer"
+painting.graham="Graham"
+painting.match="Match"
+painting.bust="Bust"
+painting.stage="Stage"
+painting.void="Void"
+painting.skullandroses="Skull and Roses"
+painting.fighters="Fighters"
+painting.pointer="Pointer"
+painting.pigscene="Pigscene"
+painting.burningskull="Burning Skull"
+painting.skeleton="Skeleton"
+painting.donkeykong="Donkey Kong"
+painting.foxhol="Foxhol"
+painting.skelebet="Skelebet"
+painting.stroldian="Stroldian"
+painting.sal="Sal"
+painting.doom="Doom"
+painting.banana="Banana"
+painting.gb="G.B."
+painting.sunmonk="Sun Monk"
+painting.frostlands="Frostlands"
+painting.toss="Toss"
+painting.packpng="Pack.png"
+painting.deepblue="Deep Blue"
+painting.reindev="ReIndev"
+painting.landscape="Landscape"
+painting.fox="Fox"
+painting.merp="Merp"
+painting.treasure="Treasure"
+painting.censure="Censure"
+painting.catbomb="Catbomb"
+painting.transcendence="Transcendence"
+painting.buriedrefuge="Buried Refuge"
+painting.eveningdelights="Evening Delights"
+painting.morningdelights="Morning Delights"
+painting.nightlyreprieve="Nightly Reprieve"
+painting.lucidia="Lucidia"
+
+jukebox.playingDisc=Tocando: %s
+
+# generic deaths
+death_message.generic=%s morreu
+death_message.void=%s caiu no vazio
+death_message.void.1=%s caiu pra fora do mundo
+death_message.void.2=%s se perdeu no tecido do espaço-tempo
+
+# player-related deaths
+death_message.player=%s foi morto por %s
+death_message.player.1=%s foi abatido por %s
+death_message.player.2=%s foi derrotado por %s
+death_message.player.3=%s foi incapaz de se defender de %s
+
+# environmental deaths
+death_message.drowning=%s se afogou
+death_message.drowning.1=%s virou comida de peixe
+death_message.falling=%s caiu direto no caixão
+death_message.falling.1=%s caiu de um lugar alto
+death_message.falling.2=%s escorregou e caiu
+death_message.explosion=%s explodiu
+death_message.explosion.1=%s explodiu em diversos pedacinhos
+death_message.suffocation=%s sufocou
+death_message.magic=%s foi morto por magia
+death_message.arrow=%s foi atingido por uma flecha
+death_message.arrow.1=%s levou uma flechada no joelho
+death_message.arrow.2=%s foi impalado por uma flecha
+death_message.lightning=%s foi atingido por um raio
+death_message.thrown_brick=%s foi atingido por um tijolo voador
+death_message.thrown_brick.1=%s conheceu Gotinha e Peninha
+death_message.thrown_augmented_pearl=%s chegou em pedaços
+death_message.intentional_game_design=%s foi morto por Design Intencional do Jogo
+death_message.intentional_game_design.1=%s virou uma vítima do Design Intencional do Jogo
+
+# block-related deaths
+death_message.block_fire=%s pegou fogo
+death_message.block_fire.1=%s foi engulido pelas chamas
+death_message.block_fire.2=%s acabou torrando
+death_message.block_fire.3=%s queimou até a morte
+death_message.block_lava=%s tentou nadar na lava
+death_message.block_lava.1=%s se fundiu com lava quente
+death_message.block_cactus=%s foi espetado até a morte
+death_message.block_cactus.1=%s abraçou espinhos
+death_message.block_magma=%s ficou em cima de magma
+death_message.block_magma.1=%s tentou andar pelo magma
+death_message.block_acid=%s derreteu
+death_message.block_sanguis=%s foi cozido vivo em sangue
+death_message.block_quicksand=%s sufocou em areia movediça
+death_message.block_tar=%s foi cozido vivo em alcatrão
+death_message.block_spurspore=%s se assimilou aos fungos
+death_message.block_abcess=%s acidentalmente furou um abscesso
+death_message.block_fleshy_spikes=%s foi mordido por espinhos de carne
+
+# mob-related deaths
+death_message.mob=%s foi morto por %s
+death_message.zombie=%s morreu para um Zumbi
+death_message.zombie.1=%s foi devorado vivo por um Zumbi
+death_message.zombie.2=%s teve seu cérebro comido por um Zumbi
+death_message.wasp=%s foi ferroado até a morte
+death_message.wasp.1=%s achou que Vespas fossem amigáveis
+death_message.wyvern=%s foi devorado por um Serpe
+death_message.wyvern.1=%s foi mastigado por um Serpe
+death_message.demon=%s foi assassinado por um Demônio
+death_message.demon.1=%s foi atraido e morto por um Demônio
+death_message.demon_spirit=%s foi carregado por Espíritos Demoníacos
+death_message.stroldian=%s foi esmagado por um Stroldian
+death_message.wither_skeleton=%s foi morto por um Esqueleto Wither
+death_message.wither_general=%s foi morto por um General Wither
+death_message.slime=%s foi esmagado por um Slime
+death_message.blaze=%s foi queimado por Blaze
+death_message.scaribou=%s foi incapaz de compreender um Scaribou
+death_message.zombie_pigman=%s foi morto por um Homem-porco Zumbi
+death_message.zombie_pigman.1=%s foi devorado vivo por um Homem-porco Zumbi
+
+# effect-related deaths
+death_message.effect_wither=%s apodreceu
+
+# overworld biomes
+biome.plains=Planície
+biome.forest=Floresta
+biome.savanna=Savana
+biome.shrubland=Matagal
+biome.desert=Deserto
+biome.swamp=Pântano
+biome.flower_forest=Floresta de Flores
+biome.rainforest=Floresta Tropical
+biome.mushland=Cogulândia
+biome.taiga=Taiga
+biome.tundra=Tundra
+biome.seasonal_forest=Floresta Sazonal
+biome.ocean=Oceano
+biome.coral_ocean=Oceano de Corais
+biome.beach=Praia
+biome.coast=Costa
+biome.rocky_beach=Praia Rochosa
+biome.rocky_coast=Costa Rochosa
+biome.mountain=Montanha
+biome.cacti_desert=Deserto de Cactos
+biome.dry_desert=Deserto Seco
+biome.islands=Ilas
+biome.quickland=Terra Movediça
+biome.wasteland=Terra Devastada
+biome.lake=Lago
+biome.snowy_taiga=Taiga Nevada
+biome.frostland=Terra Congelada
+biome.frozen_beach=Praia Congelada
+
+# nether biomes
+biome.nether_wastes=As Ruínas
+biome.crystal_caverns=Cavernas de Cristal
+biome.the_crag=Os Rochedos
+biome.crimson_forest=Floresta Carmesim
+biome.azure_forest=Floresta Azure
+biome.ebony_forest=Floresta de Ébano
+biome.basalt_delta=Deltas de Basalto
+biome.soul_sand_valley=Vale das Almas
+biome.sulphurous_springs=Fontes Sulfúreas
+biome.slagheaps=Os Montes de Entulho
+biome.slatewastes=Terras de Ardósia
+biome.ashflats=As Cinzas
+biome.great_cysts=Grandes Cistos
+biome.morevil_kingdom=Reino Maisvil
+
+# floating island biomes
+biome.cherry_groves=Cerejal
+biome.grassy_fields=Gramados
+biome.stony_mountains=Montanhas Rochosas
+biome.icy_peaks=Picos de Gelo
+
+# unused biomes
+biome.ice_desert=Deserto de Gelo
+biome.hell=Inferno
+biome.sky=Céu
+
+
+####################
+####   BLOCKS   ####
+####################
+
+# earth
+tile.grass.name=Grama
+tile.dirt.name=Terra
+tile.farmland.name=Terra Arada
+tile.path.name=Caminho
+tile.mycelium.name=Micélio
+
+# silts
+tile.sand.name=Areia
+tile.sandstone.name=Arenito
+tile.sandstone_brick.name=Tijolos de Arenito
+tile.sandstone_pillar.name=Pilar de Arenito
+tile.chiseled_sandstone_brick.name=Tijolos de Arenito Talhados
+tile.mineral_sand.name=Areia Mineral
+tile.mineral_sandstone.name=Arenito Mineral
+tile.mineral_sandstone_brick.name=Tijolos de Arenito Mineral
+tile.mineral_sandstone_pillar.name=Pilar de Arenito Mineral
+tile.chiseled_mineral_sandstone_brick.name=Tijolos de Arenito Mineral Talhados
+tile.gravel.name=Cascalho
+tile.clay.name=Argila
+tile.hardened_clay.name=Argila Endurecida
+tile.quicksand.name=Areia Movediça
+
+# stones
+tile.stone.name=Pedra
+tile.stone_brick.name=Tijolos de Pedra
+tile.fired_stone_brick.name=Tijolos de Pedra Queimados
+tile.polished_stone.name=Pedra Polida
+tile.polished_stone_brick.name=Tijolos de Pedra Polida
+tile.mosaic_stone.name=Mosaico de Pedra
+tile.limestone.name=Calcário
+tile.limestone_brick.name=Tijolos de Calcário
+tile.polished_limestone.name=Calcário Polido
+tile.mosaic_limestone.name=Mosaico de Calcário
+tile.archaic_limestone_brick.name=Tijolos de Calcário Arcáico
+tile.archaic_polished_limestone.name=Calcário Arcáico Polido 
+tile.archaic_mosaic_limestone.name=Mosaico de Calcário Arcáico 
+tile.stone_pillar.name=Pilar de Pedra
+tile.limestone_pillar.name=Pilar de Calcário
+
+# cobblestones
+tile.cobblestone.name=Pedregulho
+tile.mossy_cobblestone.name=Pedregulho Musgoso
+tile.cobbled_limestone.name=Pedregulho de Calcário
+tile.archaic_cobbled_limestone.name=Pedregulho de Calcário Arcáico
+
+# crystals
+tile.obsidian.name=Obsidiana
+tile.opal.name=Opala
+tile.opal_brick.name=Tijolos de Opala
+tile.opal_pillar.name=Pilar de Opala
+tile.rainbow_brick.name=Tijolos Arco-Íris
+tile.rainbow_rune.name=Runa Arco-Íris
+tile.rainbow_glyph.name=Glifo Arco-Íris
+tile.quartz.name=Quartzo
+tile.citrine.name=Citrino
+tile.mythril.name=Mithril
+tile.jet.name=Azeviche
+tile.quartz_pillar.name=Pilar de Quartzo
+tile.citrine_pillar.name=Pilar de Citrino
+tile.mythril_pillar.name=Pilar de Mithril
+tile.jet_pillar.name=Pilar de Azeviche
+tile.quartz_lamp.name=Lâmpada de Quartzo
+tile.citrine_lamp.name=Lâmpada de Citrino
+tile.mythril_lamp.name=Lâmpada de Mithril
+tile.jet_lamp.name=Lâmpada de Azeviche
+tile.chiseled_quartz.name=Quartzo Talhado
+tile.chiseled_citrine.name=Citrino Talhado
+tile.chiseled_mythril.name=Mithril Talhado
+tile.chiseled_jet.name=Azeviche Talhado
+tile.cobbled_quartz.name=Pedregulho de Quartzo
+tile.cobbled_citrine.name=Pedregulho de Citrino
+tile.cobbled_mythril.name=Pedregulho de Mithril
+tile.cobbled_jet.name=Pedregulho de Azeviche
+tile.quartz_cluster.name=Agregado de Quartzo
+tile.citrine_cluster.name=Agregado de Citrino
+tile.mythril_cluster.name=Agregado de Mithril
+tile.jet_cluster.name=Agregado de Azeviche
+tile.large_quartz_cluster.name=Agregado de Quartzo Grande
+tile.large_citrine_cluster.name=Agregado de Citrino Grande
+tile.large_mythril_cluster.name=Agregado de Mithril Grande
+tile.large_jet_cluster.name=Agregado de Azeviche Grande
+tile.quartz_glass.name=Vidro de Quartzo
+tile.citrine_glass.name=Vidro de Citrino
+tile.mythril_glass.name=Vidro de Mithril
+tile.jet_glass.name=Vidro de Azeviche
+tile.framed_quartz_glass.name=Vidro de Quartzo Emoldurado
+tile.framed_citrine_glass.name=Vidro de Citrino Emoldurado
+tile.framed_mythril_glass.name=Vidro de Mithril Emoldurado
+tile.framed_jet_glass.name=Vidro de Azeviche Emoldurado
+tile.quartz_torch.name=Tocha de Quartzo
+tile.citrine_torch.name=Tocha de Citrino
+tile.mythril_torch.name=Tocha de Mithril
+tile.jet_torch.name=Tocha de Azeviche
+tile.quartz_rune.name=Runa de Quartzo
+tile.citrine_rune.name=Runa de Citrino
+tile.mythril_rune.name=Runa de Mithril
+tile.jet_rune.name=Runa de Azeviche
+tile.quartz_brick.name=Tijolos de Quartzo
+tile.citrine_brick.name=Tijolos de Citrino
+tile.mythril_brick.name=Tijolos de Mithril
+tile.jet_brick.name=Tijolos de Azeviche
+tile.polished_quartz.name=Quartzo Polido
+tile.polished_citrine.name=Citrino Polido
+tile.polished_mythril.name=Mithril Polido
+tile.polished_jet.name=Azeviche Polido
+tile.framed_quartz_brick.name=Tijolos de Quartzo Emoldurados
+tile.framed_citrine_brick.name=Tijolos de Citrino Emoldurados
+tile.framed_mythril_brick.name=Tijolos de Mithril Emoldurados
+tile.framed_jet_brick.name=Tijolos de Azeviche Emoldurados
+tile.mysterious_red_gem.name=Gema Vermelha Misteriosa
+tile.mysterious_yellow_gem.name=Gema Amarela Misteriosa
+tile.mysterious_green_gem.name=Gema Verde Misteriosa
+tile.mysterious_blue_gem.name=Gema Azul Misteriosa
+tile.mysterious_purple_gem.name=Gema Roxa Misteriosa
+
+# untouchables
+tile.bedrock.name=Rocha Matriz
+
+# fluids
+tile.water.name=Água
+tile.lava.name=Lava
+tile.sanguis.name=Sanguis
+
+# ores
+tile.coal_ore.name=Minério de Carvão
+tile.iron_ore.name=Minério de Ferro
+tile.gold_ore.name=Minério de Ouro
+tile.diamond_ore.name=Minério de Diamante
+tile.augmentite_ore.name=Minério de Augmentita
+tile.nether_coal_ore.name=Minério de Carvão do Nether
+tile.nether_iron_ore.name=Minério de Ferro do Nether
+tile.nether_gold_ore.name=Minério de Ouro do Nether
+tile.nether_diamond_ore.name=Minério de Diamante do Nether
+tile.coal_block.name=Bloco de Carvão
+tile.iron_block.name=Bloco de Ferro
+tile.gold_block.name=Bloco de Ouro
+tile.diamond_block.name=Bloco de Diamante
+tile.augmentite_block.name=Bloco de Augmentita
+
+# augmentite
+tile.augmentite_brick.name=Tijolos de Augmentita
+tile.augmentite_pillar.name=Pilar de Augmentita
+
+# corundum
+tile.corundum_scrap.name=Fragmento de Coríndon
+tile.corundum_block.name=Bloco de Coríndon
+tile.corundum_plating.name=Revestimento de Coríndon
+tile.corundum_pillar.name=Pilar de Coríndon
+
+# chains
+tile.iron_chain.name=Corrente de Ferro
+tile.gold_chain.name=Corrente de Ouro
+tile.corundum_chain.name=Corrente de Coríndon
+tile.large_iron_chain.name=Corrente de Ferro Grande
+tile.large_gold_chain.name=Corrente de Ouro Grande
+tile.large_corundum_chain.name=Corrente de Coríndon Grande
+
+# logs, leaves, & saplings
+tile.oak_log.name=Tronco de Carvalho
+tile.oak_leaves.name=Folhas de Carvalho
+tile.oak_sapling.name=Muda de Carvalho
+tile.crimson_log.name=Tronco Carmesim
+tile.crimson_leaves.name=Folhas Carmesim
+tile.blooming_crimson_leaves.name=Folhas Carmesim Florescente
+tile.crimson_sapling.name=Muda Carmesim
+tile.fir_log.name=Tronco de Abeto
+tile.fir_leaves.name=Folhas de Abeto
+tile.fir_sapling.name=Muda de Abeto
+tile.cherry_log.name=Tronco de Cerejeira
+tile.cherry_leaves.name=Folhas de Cerejeira
+tile.cherry_sapling.name=Muda de Cerejeira
+tile.spruce_log.name=Tronco de Pinheiro
+tile.spruce_leaves.name=Folhas de Pinheiro
+tile.spruce_sapling.name=Muda de Pinheiro
+tile.ebony_log.name=Tronco de Ébano
+tile.ebony_leaves.name=Folhas de Ébano
+tile.blooming_ebony_leaves.name=Folhas de Ébano Florescente
+tile.ebony_sapling.name=Muda de Ébano
+tile.azure_log.name=Tronco Azure
+tile.azure_leaves.name=Folhas Azure
+tile.blooming_azure_leaves.name=Folhas Azure Florescente
+tile.azure_sapling.name=Muda Azure
+tile.thistlewood_log.name=Tronco de Cardo
+tile.thistlewood_leaves.name=Folhas de Cardo Desprezível
+tile.light_thistlewood_leaves.name=Folhas de Cardo Desprezível Claras
+tile.bright_thistlewood_leaves.name=Folhas de Cardo Desprezível Brilhantes
+tile.scornthistle.name=Cardo Desprezível
+tile.ignethistle_leaves.name=Folhas de Cardo Ígneo
+tile.light_ignethistle_leaves.name=Folhas de Cardo Ígneo Claras
+tile.bright_ignethistle_leaves.name=Folhas de Cardo Ígneo Brilhantes
+tile.ignethistle.name=Cardo Ígneo
+tile.charred_log.name=Tronco Carbonizado
+tile.stripped_oak_log.name=Tronco de Carvalho Descascado
+tile.stripped_crimson_log.name=Tronco Carmesim Descascado
+tile.stripped_fir_log.name=Tronco de Abeto Descascado
+tile.stripped_cherry_log.name=Tronco de Cerejeira Descascado
+tile.stripped_spruce_log.name=Tronco de Pinheiro Descascado
+tile.stripped_ebony_log.name=Tronco de Ébano Descascado
+tile.stripped_azure_log.name=Tronco Azure Descascado
+tile.stripped_thistlewood_log.name=Tronco de Cardo Descascado
+tile.oak_bark.name=Madeira de Carvalho
+tile.crimson_bark.name=Madeira Carmesim
+tile.fir_bark.name=Madeira de Abeto
+tile.cherry_bark.name=Madeira de Cerejeira
+tile.spruce_bark.name=Madeira de Pinheiro
+tile.ebony_bark.name=Madeira de Ébano
+tile.azure_bark.name=Madeira Azure
+tile.thistlewood_bark.name=Madeira de Cardo
+
+# leaf piles
+tile.oak_leaf_pile.name=Pilha de Folhas de Carvalho
+tile.fir_leaf_pile.name=Pilha de Folhas de Abeto
+tile.blossoming_leaf_pile.name=Pilha de Folhas Florescentes
+tile.cherry_leaf_pile.name=Pilha de Folhas de Cerejeira
+tile.spruce_leaf_pile.name=Pilha de Folhas de Pinheiro
+
+# planks
+tile.planks.oak.name=Tábuas de Carvalho
+tile.planks.crimson.name=Tábuas Carmesim
+tile.planks.fir.name=Tábuas de Abeto
+tile.planks.cherry.name=Tábuas de Cerejeira
+tile.planks.spruce.name=Tábuas de Pinheiro
+tile.planks.ebony.name=Tábuas de Ébano
+tile.planks.azure.name=Tábuas Azure
+tile.planks.thistlewood.name=Tábuas de Cardo
+tile.glowing_crimson_planks.name=Tábuas Carmesim Brilhantes
+tile.glowing_ebony_planks.name=Tábuas de Ébano Brilhantes
+tile.glowing_azure_planks.name=Tábuas Azure Brilhantes
+tile.glowing_thistlewood_planks.name=Tábuas de Cardo Brilhantes
+
+# polished & tiled planks
+tile.polished_oak_wood.name=Madeira de Carvalho Polida
+tile.polished_crimson_wood.name=Madeira Carmesim Polida
+tile.polished_fir_wood.name=Madeira de Abeto Polida
+tile.polished_cherry_wood.name=Madeira de Cerejeira Polida
+tile.polished_spruce_wood.name=Madeira de Pinheiro Polida
+tile.polished_ebony_wood.name=Madeira de Ébano Polida
+tile.polished_azure_wood.name=Madeira Azure Polida
+tile.polished_thistlewood.name=Madeira de Cardo Polida
+tile.tiled_oak_planks.name=Tábuas de Carvalho Talhadas
+tile.tiled_crimson_planks.name=Tábuas Carmesim Talhadas
+tile.tiled_fir_planks.name=Tábuas de Abeto Talhadas
+tile.tiled_cherry_planks.name=Tábuas de Cerejeira Talhadas
+tile.tiled_spruce_planks.name=Tábuas de Pinheiro Talhadas
+tile.tiled_ebony_planks.name=Tábuas de Ébano Talhadas
+tile.tiled_azure_planks.name=Tábuas Azure Talhadas
+tile.tiled_thistlewood_planks.name=Tábuas de Cardo Talhadas
+
+# corals
+tile.blue_coral.name=Coral Azul
+tile.red_coral.red.name=Coral Vermelho
+tile.yellow_coral.name=Coral Amarelo
+tile.white_coral.name=Coral Branco
+tile.red_coral.pink.name=Coral Rosa
+tile.red_coral.orange.name=Coral Laranja
+
+# misc cave foliage
+tile.cobweb.name=Teia de Aranha
+tile.stalactite.name=Estalactite
+tile.stalagmite.name=Estalagmite
+tile.cave_roots.name=Raízes Suspensas
+
+# flowers
+tile.dandelion.name=Dente-de-Leão
+tile.rose.name=Rosa
+tile.cyan_rose.name=Rosa Ciano
+tile.paeonia.name=Peônia
+tile.marigold.name=Bem-me-quer
+tile.black_dahlia.name=Dália Negra
+tile.lavender.name=Lavanda
+tile.buttercup.name=Botão-de-ouro
+tile.dandelion.mutation.name=Dente-de-Leão Branco
+tile.rose.mutation.name=Rosa Violeta
+tile.cyan_rose.mutation.name=Rosa Chocolate
+tile.paeonia.mutation.name=Peônia Azul
+tile.marigold.mutation.name=Áster
+tile.black_dahlia.mutation.name=Dália Branca
+tile.lavender.mutation.name=Boca-de-leão
+tile.buttercup.mutation.name=Botão-de-ouro Azul
+
+# golden flowers
+tile.golden_dandelion.name=Dente-de-Leão Dourado
+tile.golden_rose.name=Rosa Dourada
+tile.golden_rosetta.name=Roseta Dourada
+tile.golden_paeonia.name=Peônia Dourada
+tile.golden_marigold.name=Bem-me-quer Dourado
+tile.golden_lavender.name=Lavanda Dourada
+tile.silver_dahlia.name=Dália Prateada
+tile.silver_buttercup.name=Botão-de-ouro Prateado
+
+# misc foliage
+tile.fern.name=Samambaia
+tile.tall_grass.name=Grama Alta
+tile.dead_bush.name=Arbusto Morto
+tile.shrub.name=Arbusto
+tile.hedge.name=Sebe
+tile.blossoming_leaves.name=Folhas Florescentes
+tile.blueberry_bush.name=Arbusto de Mirtilo
+tile.cactus.name=Cacto
+tile.dead_cactus.name=Cacto Morto
+tile.stripped_cactus.name=Cacto Descascado
+tile.barrel_cactus.name=Cacto Barril
+tile.small_barrel_cactus.name=Cacto Barril Pequeno
+tile.cactus_flower.name=Flor de Cacto
+tile.tumbleweed.name=Bola de Feno
+tile.clover.name=Trevo-de-quatro-folhas
+tile.corn_cob_block.name=Bloco de Espiga de Milho
+tile.popcorn_block.name=Bloco de Pipoca
+tile.fallen_leaves.name=Folhas Caídas
+tile.fallen_twig.name=Galho Caído
+
+# melons
+tile.pumpkin.name=Abóbora
+tile.carved_pumpkin.name=Abóbora Esculpida
+tile.jack_o_lantern.name=Abóbora de Halloween
+tile.watermelon.name=Melancia
+tile.carved_watermelon.name=Melancia Esculpida
+tile.jack_o_melon.name=Melancia de Halloween
+carving.creeper=Creeper
+carving.dispenser=Ejetor
+carving.observer=Observador
+carving.smiley=Sorrizinho
+carving.skeleton=Esqueleto
+carving.scaribou=Scaribou
+carving.goofy=Bobinho
+carving.cat=Gato
+carving.slime=Slime
+carving.terror=Terror
+carving.fright=Susto
+carving.fox=Raposa
+tile.creeper_carved_pumpkin.name=Abóbora Esculpida
+tile.dispenser_carved_pumpkin.name=Abóbora Esculpida
+tile.observer_carved_pumpkin.name=Abóbora Esculpida
+tile.smiley_carved_pumpkin.name=Abóbora Esculpida
+tile.skeleton_carved_pumpkin.name=Abóbora Esculpida
+tile.scaribou_carved_pumpkin.name=Abóbora Esculpida
+tile.goofy_carved_pumpkin.name=Abóbora Esculpida
+tile.cat_carved_pumpkin.name=Abóbora Esculpida
+tile.slime_carved_pumpkin.name=Abóbora Esculpida
+tile.terror_carved_pumpkin.name=Abóbora Esculpida
+tile.fright_carved_pumpkin.name=Abóbora Esculpida
+tile.fox_carved_pumpkin.name=Abóbora Esculpida
+tile.creeper_jack_o_lantern.name=Abóbora de Halloween
+tile.dispenser_jack_o_lantern.name=Abóbora de Halloween
+tile.observer_jack_o_lantern.name=Abóbora de Halloween
+tile.smiley_jack_o_lantern.name=Abóbora de Halloween
+tile.skeleton_jack_o_lantern.name=Abóbora de Halloween
+tile.scaribou_jack_o_lantern.name=Abóbora de Halloween
+tile.goofy_jack_o_lantern.name=Abóbora de Halloween
+tile.cat_jack_o_lantern.name=Abóbora de Halloween
+tile.slime_jack_o_lantern.name=Abóbora de Halloween
+tile.terror_jack_o_lantern.name=Abóbora de Halloween
+tile.fright_jack_o_lantern.name=Abóbora de Halloween
+tile.fox_jack_o_lantern.name=Abóbora de Halloween
+tile.creeper_carved_watermelon.name=Melancia Esculpida
+tile.dispenser_carved_watermelon.name=Melancia Esculpida
+tile.observer_carved_watermelon.name=Melancia Esculpida
+tile.smiley_carved_watermelon.name=Melancia Esculpida
+tile.skeleton_carved_watermelon.name=Melancia Esculpida
+tile.scaribou_carved_watermelon.name=Melancia Esculpida
+tile.goofy_carved_watermelon.name=Melancia Esculpida
+tile.cat_carved_watermelon.name=Melancia Esculpida
+tile.slime_carved_watermelon.name=Melancia Esculpida
+tile.terror_carved_watermelon.name=Melancia Esculpida
+tile.fright_carved_watermelon.name=Melancia Esculpida
+tile.fox_carved_watermelon.name=Melancia Esculpida
+tile.creeper_jack_o_melon.name=Melancia de Halloween
+tile.dispenser_jack_o_melon.name=Melancia de Halloween
+tile.observer_jack_o_melon.name=Melancia de Halloween
+tile.smiley_jack_o_melon.name=Melancia de Halloween
+tile.skeleton_jack_o_melon.name=Melancia de Halloween
+tile.scaribou_jack_o_melon.name=Melancia de Halloween
+tile.goofy_jack_o_melon.name=Melancia de Halloween
+tile.cat_jack_o_melon.name=Melancia de Halloween
+tile.slime_jack_o_melon.name=Melancia de Halloween
+tile.terror_jack_o_melon.name=Melancia de Halloween
+tile.fright_jack_o_melon.name=Melancia de Halloween
+tile.fox_jack_o_melon.name=Melancia de Halloween
+
+# mushrooms
+tile.brown_mushroom.name=Cogumelo Marrom
+tile.red_mushroom.name=Cogumelo Vermelho
+tile.glowing_mushroom.name=Cogumelo Brilhante
+tile.brown_mushroom_block.name=Bloco de Cogumelo Marrom
+tile.red_mushroom_block.name=Bloco de Cogumelo Vermelho
+tile.glowing_mushroom_block.name=Bloco de Cogumelo Brilhante
+tile.mushroom_stem.name=Caule de Cogumelo
+tile.mycelial_netherrack.name=Netherrack Micelial 
+tile.morevil_fungus.name=Fungo Maisvil
+tile.morevil_cap.name=Píleo Maisvil
+tile.morevil_stem.name=Caule Maisvil
+tile.morevil_mane.name=Juba Maisvil
+tile.portabella.name=Portobello
+tile.small_portabella.name=Portobello Pequeno
+tile.hollowart.name=Fungoco
+tile.spurspore.name=Esporos
+tile.morevil_lantern.name=Lanterna Maisvil
+tile.glowing_morevil_lantern.name=Lanterna Maisvil
+
+# red bricks
+tile.brick.name=Tijolos
+tile.mossy_brick.name=Tijolos Musgosos
+tile.fired_brick.name=Tijolos Queimados
+tile.mossy_fired_brick.name=Tijolos Queimados Musgosos
+tile.braided_brick.name=Tijolos Trançados
+tile.braided_fired_brick.name=Tijolos Queimados Trançados
+
+# misc bricks
+tile.cobblestone_brick.name=Tijolos de Pedregulho
+tile.iron_brick.name=Tijolos de Ferro
+tile.golden_brick.name=Tijolos Dourados
+tile.brimcloud_brick.name=Tijolos de nuvardente
+
+# terracotta
+tile.terracotta_brick.name=Tijolos de Terracota
+tile.braided_terracotta_brick.name=Tijolos de Terracota Trançados
+tile.terracotta_pillar.name=Pilar de Terracota
+tile.chiseled_terracotta_brick.name=Tijolos de Terracota Talhados
+
+# snow & ice
+tile.snow_layer.name=Pilha de Neve
+tile.snow_block.name=Bloco de Neve
+tile.snow_brick.name=Tijolos de Neve
+tile.snow_brick_pillar.name=Pilar de Tijolos de Neve
+tile.ice.name=Gelo
+tile.packed_ice.name=Gelo Compactado
+tile.frozestone.name=Pedra-gélida
+tile.packed_ice_brick.name=Tijolos de Gelo
+tile.ice_pillar.name=Pilar de Tijolos de Gelo
+tile.chiseled_ice_brick.name=Tijolos de Gelo Talhados
+
+# ash
+tile.ash.name=Bloco de Cinzas
+tile.ash_layer.name=Pilha de Cinzas
+tile.cinderbrick.name=Tijolos de Cinzas
+tile.cinderbrick_pillar.name=Pilar de Tijolos de Cinzas
+
+# cloud & cloudstone
+tile.cloud.name=Bloco de Nuvem
+tile.cloudstone.name=Pedra-nuvem
+tile.polished_cloudstone.name=Pedra-nuvem Polida
+tile.cloudstone_brick.name=Tijolos de Pedra-nuvem
+tile.mosaic_cloudstone.name=Mosaico de Pedra-nuvem
+tile.cloudstone_pillar.name=Pilar de Pedra-nuvem
+
+# wasp nest & related
+tile.wasp_hive.hive.name=Bloco de Ninho de Vespa
+tile.wasp_hive.honeycomb.name=Bloco de Favo de Mel
+tile.hivelight.name=Colmeluz
+tile.honey_brick.name=Tijolos de Mel
+tile.honey_brick_pillar.name=Pilar de Tijolos de Mel
+
+# misc & other
+tile.fire.name=Fogo
+tile.sponge.name=Esponja
+tile.logjam.name=Bloco de Entupimento
+tile.cheese_block.name=Bloco de Queijo
+tile.mob_spawner.name=Gerador de Criaturas
+tile.sugar_cane_block.name=Bloco de Cana-de-açúcar
+tile.hay_bale.name=Fardo de Feno
+tile.slime_block.name=Bloco de Slime
+tile.leather_block.name=Bloco de Couro
+tile.seashell.name=Concha do Mar
+tile.coquina_rock.name=Rocha de Coquina
+tile.coquina_brick.name=Tijolos de Coquina
+tile.coquina_pillar.name=Pilar de Coquina
+tile.red_candy_cane_block.name=Bloco de Bengala Doce Vermelha
+tile.green_candy_cane_block.name=Bloco de Bengala Doce Verde
+tile.yellow_candy_cane_block.name=Bloco de Bengala Doce Amarela
+tile.bundle_of_mint.name=Fardo de Menta
+tile.tombstone.name=Lápide
+tile.cucurboo_tombstone.name=Lápide de Cucurboo
+
+# utilities
+tile.workbench.name=Bancada de Trabalho
+tile.furnace.name=Fornalha
+tile.chest.name=Baú
+tile.torch.name=Tocha
+tile.forge.name=Forja
+tile.incinerator.name=Incinerador
+tile.crate.name=Caixote
+tile.colored_crate.red.name=Caixote Vermelho
+tile.colored_crate.orange.name=Caixote Laranja
+tile.colored_crate.yellow.name=Caixote Amarelo
+tile.colored_crate.lime.name=Caixote Verde-limão
+tile.colored_crate.green.name=Caixote Verde
+tile.colored_crate.light_blue.name=Caixote Azul-claro
+tile.colored_crate.cyan.name=Caixote Ciano
+tile.colored_crate.blue.name=Caixote Azul
+tile.colored_crate.indigo.name=Caixote Índigo
+tile.colored_crate.purple.name=Caixote Roxo
+tile.colored_crate.pink.name=Caixote Rosa
+tile.colored_crate.brown.name=Caixote Marrom
+tile.colored_crate.black.name=Caixote Preto
+tile.colored_crate.gray.name=Caixote Cinza
+tile.colored_crate.silver.name=Caixote Cinza-claro
+tile.colored_crate.white.name=Caixote Branco
+tile.artificial_hive.name=Colmeia Artificial
+tile.beacon.name=Sinalizador
+tile.cauldron.name=Caldeirão
+tile.jukebox.name=Toca-discos
+tile.refridgifreezer.name=Congeladeira
+tile.drawer.name=Armário
+tile.bonsai_planter.name=Plantador de Bonsai
+tile.carpentry_table.name=Bancada de Carpintaria
+tile.dimensional_chest.name=Baú Dimensional
+tile.dungeon_chest.name=Baú de Masmorra
+
+# cuneiform blocks
+tile.cuneiform_block.contains=Contém texto
+tile.cuneiform_block.characters=(%s caractere(s))
+tile.terracotta_cuneiform_block.name=Bloco Cuneiforme de Terracota
+tile.sandstone_cuneiform_block.name=Bloco Cuneiforme de Arenito
+tile.soul_sandstone_cuneiform_block.name=Bloco Cuneiforme de Arenito das Almas
+tile.mineral_sandstone_cuneiform_block.name=Bloco Cuneiforme de Arenito Mineral
+tile.stone_cuneiform_block.name=Bloco Cuneiforme de Pedra
+tile.limestone_cuneiform_block.name=Bloco Cuneiforme de Calcário
+tile.brimstone_cuneiform_block.name=Bloco Cuneiforme de Pedrardente
+tile.cloudstone_cuneiform_block.name=Bloco Cuneiforme de Pedra-nuvem
+tile.basalt_cuneiform_block.name=Bloco Cuneiforme de Basalto
+tile.bone_cuneiform_block.name=Bloco Cuneiforme de Osso
+tile.opal_cuneiform_block.name=Bloco Cuneiforme de Opala
+tile.ridrock_cuneiform_block.name=Bloco Cuneiforme de Ridrock
+tile.quartz_cuneiform_block.name=Bloco Cuneiforme de Quartzo
+tile.citrine_cuneiform_block.name=Bloco Cuneiforme de Citrino
+tile.mythril_cuneiform_block.name=Bloco Cuneiforme de Mithril
+tile.jet_cuneiform_block.name=Bloco Cuneiforme de Azeviche
+tile.scoria_cuneiform_block.name=Bloco Cuneiforme de Escória
+tile.granite_cuneiform_block.name=Bloco Cuneiforme de Granito
+tile.magma_cuneiform_block.name=Bloco Cuneiforme de Magma de Sangue
+tile.kottamagma_cuneiform_block.name=Bloco Cuneiforme de Magma Frio
+tile.sulphurous_magma_cuneiform_block.name=Bloco Cuneiforme de Magma Sulfúrico
+tile.blood_magma_cuneiform_block.name=Bloco Cuneiforme de Magma de Sangue
+tile.slag_cuneiform_block.name=Bloco Cuneiforme de Entulho
+tile.chromagma_cuneiform_block.name=Bloco Cuneiforme de Cromagma
+
+# bookshelves
+tile.bookshelf.name=Estante de Livros de Carvalho
+tile.crimson_bookshelf.name=Estante de Livros Carmesim
+tile.fir_bookshelf.name=Estante de Livros de Abeto
+tile.cherry_bookshelf.name=Estante de Livros de Cerejeira
+tile.brickshelf.name=Estante de Tijolos
+tile.ebony_bookshelf.name=Estante de Livros de Ébano
+tile.spruce_bookshelf.name=Estante de Livros de Pinheiro
+tile.azure_bookshelf.name=Estante de Livros Azure
+tile.thistlewood_bookshelf.name=Estante de Livros de Cardo
+
+# ladders & variants
+tile.ladder.name=Escada
+tile.oak_ladder.name=Escada de Carvalho
+tile.crimson_ladder.name=Escada Carmesim
+tile.fir_ladder.name=Escada de Abeto
+tile.cherry_ladder.name=Escada de Cerejeira
+tile.spruce_ladder.name=Escada de Pinheiro
+tile.ebony_ladder.name=Escada de Ébano
+tile.azure_ladder.name=Escada Azure
+tile.thistlewood_ladder.name=Escada de Cardo
+tile.iron_ladder.name=Escada de Ferro
+tile.gold_ladder.name=Escada de Ouro
+tile.sugar_cane_ladder.name=Escada de Cana-de-açúcar
+tile.bone_ladder.name=Escada de Osso
+tile.stone_ladder.name=Escada de Pedra
+tile.brimstone_ladder.name=Escada de Pedrardente
+tile.cloudstone_ladder.name=Escada de Pedra-nuvem
+
+# trapdoors
+tile.oak_trapdoor.name=Alçapão de Carvalho
+tile.crimson_trapdoor.name=Alçapão Carmesim
+tile.fir_trapdoor.name=Alçapão de Abeto
+tile.cherry_trapdoor.name=Alçapão de Cerejeira
+tile.iron_trapdoor.name=Alçapão de Ferro
+tile.spruce_trapdoor.name=Alçapão de Pinheiro
+tile.ebony_trapdoor.name=Alçapão de Ébano
+tile.azure_trapdoor.name=Alçapão Azure
+tile.thistlewood_trapdoor.name=Alçapão de Cardo
+
+# nether & related
+tile.netherrack.name=Netherrack
+tile.nether_brick.name=Tijolos do Nether
+tile.chiseled_nether_brick.name=Tijolos do Nether Talhados
+tile.nether_brick_pillar.name=Pilar de Tijolos do Nether
+tile.soul_sand.name=Areia das Almas
+tile.soul_sandstone.name=Arenito das Almas
+tile.soul_sandstone_brick.name=Tijolo de Arenito das Almas
+tile.soul_sandstone_pillar.name=Pilar de Arenito das Almas
+tile.chiseled_soul_sandstone_brick.name=Tijolos de Arenito das Almas Talhados
+tile.soulflower.name=Flor d'Alma
+tile.glowstone.name=Pedra Luminosa
+tile.nether_bramble.name=Espinheiro do Nether
+tile.black_nether_bramble.name=Espinheiro Negro do Nether
+tile.ridrock.name=Ridrock
+tile.ridrock_brick.name=Tijolos de Ridrock
+tile.ridrock_pillar.name=Pilar de Ridrock
+tile.sulphur.name=Enxofre
+tile.slate.name=Ardósia
+tile.slate_brick.name=Tijolos de Ardósia
+tile.slate_tiles.name=Ladrilhos de Ardósia
+tile.slate_pillar.name=Pilar de Ardósia
+tile.luminescent_nettloid.name=Nettloide Luminescente
+tile.luminescent_conoid.name=Conóide Luminescente
+tile.azzurum.name=Azzúrio
+tile.azzurpearl.name=Perolazul
+tile.purpearl.name=Pérolarroxa
+tile.carnepearl.name=Pérolacarne
+tile.xanthpearl.name=Pérolazante
+tile.verdepearl.name=Pérolaverde
+tile.azzurpearl_brick.name=Tijolos de Pérolazul
+tile.purpearl_brick.name=Tijolos de Pérolarroxa
+tile.carnepearl_brick.name=Tijolos de Pérolacarne
+tile.xanthpearl_brick.name=Tijolos de Pérolazante
+tile.verdepearl_brick.name=Tijolos de Pérolaverde
+tile.lazumold_clump.name=Agregado de Lazumolde
+tile.radgrass.name=Radgrama
+tile.infernum.name=Satambaia
+tile.crimson_turf.name=Relva Carmesim
+tile.diabolum.name=Diabolo
+tile.cinnabind.name=Vincanela
+tile.bonfire_lotus.name=Lótus Fogueira
+tile.hellpetals.name=Pétalas Infernais
+tile.sulphurous_cactus.name=Cacto Sulfúrico
+tile.sulphurous_barrel_cactus.name=Cacto Barril Sulfúrico
+tile.sulphurbloom.name=Enxoflor
+tile.torch_prickle.name=Tocha Espinho
+tile.agave.name=Agave
+tile.glowing_agave.name=Agave Brilhante
+tile.sulphurous_shell.name=Conchácida
+tile.acidshell_rock.name=Rocha de Conchácida
+tile.acidshell_brick.name=Tijolos de Conchácida
+tile.acidshell_pillar.name=Pilar de Conchácida
+tile.duster.name=Duster
+tile.magmoss_basalt.name=Magmoss Basalt
+tile.fierofolha.name=Fierofolha
+tile.fierofern.name=Fierofern
+tile.fierobracken.name=Fierobracken
+tile.dustbracken.name=Dustbracken
+tile.creeping_malice.name=Creeping Malice
+tile.smouldering_bombush.name=Smouldering Bombush
+tile.false_bombush.name=False Bombush
+tile.traceweed.name=Traceweed
+tile.little_traceweed.name=Little Traceweed
+tile.large_traceweed.name=Large Traceweed
+tile.magmoss.name=Magmoss
+tile.magma_sprout.name=Magma Sprout
+tile.tar.name=Tar
+tile.acherontic_fern.name=Acherontic Fern
+tile.spineapple.name=Spineapple Plant
+tile.plorumpora.name=Plorumpora
+tile.stellar_starflower.name=Stellar Starflower
+tile.milky_way_thistle.name=Milky Way Thistle
+
+# flesh & bone
+tile.bone.name=Bone Block
+tile.spinal_column.name=Spinal Column
+tile.tooth.name=Tooth Block
+tile.dry_ribcage.name=Dry Ribcage
+tile.fleshy_ribcage.name=Fleshy Ribcage
+tile.vertebrae.name=Vertebrae
+tile.flesh.name=Flesh
+tile.flesh_pillar.name=Flesh Pillar
+tile.flesh_brick.name=Flesh Brick
+tile.ocular_flesh.name=Ocular Flesh
+tile.fleshy_spikes.name=Fleshy Spikes
+tile.coagulated_sanguis.name=Coagulated Sanguis
+tile.necrotic_flesh.name=Necrotic Flesh
+tile.hair_clump.name=Hair Clump
+tile.abcess.name=Abcess
+tile.popped_abcess.name=Popped Abcess
+
+# brimstone & basalt
+tile.brimstone.generic.name=Brimstone
+tile.brimstone.brick.name=Brimstone Bricks
+tile.polished_brimstone.name=Polished Brimstone
+tile.mosaic_brimstone.name=Mosaic Brimstone
+tile.brimstone_pillar.name=Brimstone Pillar
+tile.brimstone_stalactite.name=Brimstone Stalactite
+tile.brimstone_stalagmite.name=Brimstone Stalagmite
+tile.basalt.columnar.name=Basalt
+tile.basalt.pillar.name=Basalt Pillar
+tile.basalt_brick.name=Basalt Bricks
+tile.polished_basalt.name=Polished Basalt
+tile.mosaic_basalt.name=Mosaic Basalt
+
+# slag
+tile.slag.name=Slag
+tile.smooth_slag.name=Smooth Slag
+tile.slag_pillar.name=Slag Pillar
+tile.scorching_slag.name=Scorching Slag
+tile.slagtrace.name=Slagtrace
+tile.slag_brick.name=Slag Bricks
+tile.scorching_slag_brick.name=Scorching Slag Bricks
+tile.scorching_slag_pillar.name=Scorching Slag Pillar
+
+# scoria & granite
+tile.scoria.name=Scoria
+tile.polished_scoria.name=Polished Scoria
+tile.scoria_brick.name=Scoria Bricks
+tile.scoria_pillar.name=Scoria Pillar
+tile.mosaic_scoria.name=Mosaic Scoria
+tile.granite.name=Granite
+tile.polished_granite.name=Polished Granite
+tile.granite_brick.name=Granite Bricks
+tile.granite_pillar.name=Granite Pillar
+tile.mosaic_granite.name=Mosaic Granite
+tile.salsa_brick.name=Salsa Bricks
+tile.limescoric_brick.name=Limescoric Bricks
+tile.graniscoric_brick.name=Graniscoric Bricks
+
+# nyliums
+tile.crimson_nylium.name=Crimson Nylium
+tile.ebony_nylium.name=Ebony Nylium
+tile.azure_nylium.name=Azure Nylium
+tile.basalt_crimson_nylium.name=Crimson Nylium
+tile.basalt_ebony_nylium.name=Ebony Nylium
+tile.basalt_azure_nylium.name=Azure Nylium
+
+# magma & related
+tile.magma.name=Magma Block
+tile.magma_brick.name=Magma Bricks
+tile.magma_pillar.name=Magma Pillar
+tile.magma_rune.name=Magma Rune
+tile.kottamagma.name=Kottamagma
+tile.kottamagma_brick.name=Kottamagma Bricks
+tile.kottamagma_pillar.name=Kottamagma Pillar
+tile.kottamagma_rune.name=Kottamagma Rune
+tile.blood_magma.name=Blood Magma
+tile.blood_magma_brick.name=Blood Magma Bricks
+tile.blood_magma_pillar.name=Blood Magma Pillar
+tile.blood_magma_rune.name=Blood Magma Rune
+tile.sulphurous_magma.name=Sulphurous Magma
+tile.sulphurous_magma_brick.name=Sulphurous Magma Bricks
+tile.sulphurous_magma_pillar.name=Sulphurous Magma Pillar
+tile.sulphurous_magma_rune.name=Sulphurous Magma Rune
+tile.chromagma.name=Chromagma Block
+tile.chromagma_brick.name=Chromagma Bricks
+tile.chromagma_pillar.name=Chromagma Pillar
+
+# glass & stained glass
+tile.glass.name=Glass
+tile.tempered_glass.name=Tempered Glass
+tile.mineral_sand_glass.name=Mineral Sand Glass
+tile.soul_sand_glass.name=Soul Sand Glass
+tile.tinted_glass.red.name=Red Stained Glass
+tile.tinted_glass.orange.name=Orange Stained Glass
+tile.tinted_glass.yellow.name=Yellow Stained Glass
+tile.tinted_glass.lime.name=Lime Stained Glass
+tile.tinted_glass.green.name=Green Stained Glass
+tile.tinted_glass.light_blue.name=Light Blue Stained Glass
+tile.tinted_glass.cyan.name=Cyan Stained Glass
+tile.tinted_glass.blue.name=Blue Stained Glass
+tile.tinted_glass.indigo.name=Indigo Stained Glass
+tile.tinted_glass.purple.name=Purple Stained Glass
+tile.tinted_glass.pink.name=Pink Stained Glass
+tile.tinted_glass.brown.name=Brown Stained Glass
+tile.tinted_glass.black.name=Black Stained Glass
+tile.tinted_glass.gray.name=Gray Stained Glass
+tile.tinted_glass.silver.name=Light Gray Stained Glass
+tile.tinted_glass.white.name=White Stained Glass
+
+# wools
+tile.cloth.red.name=Red Wool
+tile.cloth.orange.name=Orange Wool
+tile.cloth.yellow.name=Yellow Wool
+tile.cloth.lime.name=Lime Wool
+tile.cloth.green.name=Green Wool
+tile.cloth.light_blue.name=Light Blue Wool
+tile.cloth.cyan.name=Cyan Wool
+tile.cloth.blue.name=Blue Wool
+tile.cloth.indigo.name=Indigo Wool
+tile.cloth.purple.name=Purple Wool
+tile.cloth.pink.name=Pink Wool
+tile.cloth.brown.name=Brown Wool
+tile.cloth.black.name=Black Wool
+tile.cloth.gray.name=Gray Wool
+tile.cloth.silver.name=Light Gray Wool
+tile.cloth.white.name=Wool
+
+# carpets
+tile.carpet.red.name=Red Carpet
+tile.carpet.orange.name=Orange Carpet
+tile.carpet.yellow.name=Yellow Carpet
+tile.carpet.lime.name=Lime Carpet
+tile.carpet.green.name=Green Carpet
+tile.carpet.light_blue.name=Light Blue Carpet
+tile.carpet.cyan.name=Cyan Carpet
+tile.carpet.blue.name=Blue Carpet
+tile.carpet.indigo.name=Indigo Carpet
+tile.carpet.purple.name=Purple Carpet
+tile.carpet.pink.name=Pink Carpet
+tile.carpet.brown.name=Brown Carpet
+tile.carpet.black.name=Black Carpet
+tile.carpet.gray.name=Gray Carpet
+tile.carpet.silver.name=Light Gray Carpet
+tile.carpet.white.name=White Carpet
+
+# colored planks
+tile.colored_planks.red.name=Red Planks
+tile.colored_planks.orange.name=Orange Planks
+tile.colored_planks.yellow.name=Yellow Planks
+tile.colored_planks.lime.name=Lime Planks
+tile.colored_planks.green.name=Green Planks
+tile.colored_planks.light_blue.name=Light Blue Planks
+tile.colored_planks.cyan.name=Cyan Planks
+tile.colored_planks.blue.name=Blue Planks
+tile.colored_planks.indigo.name=Indigo Planks
+tile.colored_planks.purple.name=Purple Planks
+tile.colored_planks.pink.name=Pink Planks
+tile.colored_planks.brown.name=Brown Planks
+tile.colored_planks.black.name=Black Planks
+tile.colored_planks.gray.name=Gray Planks
+tile.colored_planks.silver.name=Light Gray Planks
+tile.colored_planks.white.name=White Planks
+
+# colored chests
+tile.colored_chest.red.name=Red Chest
+tile.colored_chest.orange.name=Orange Chest
+tile.colored_chest.yellow.name=Yellow Chest
+tile.colored_chest.lime.name=Lime Chest
+tile.colored_chest.green.name=Green Chest
+tile.colored_chest.light_blue.name=Light Blue Chest
+tile.colored_chest.cyan.name=Cyan Chest
+tile.colored_chest.blue.name=Blue Chest
+tile.colored_chest.indigo.name=Indigo Chest
+tile.colored_chest.purple.name=Purple Chest
+tile.colored_chest.pink.name=Pink Chest
+tile.colored_chest.brown.name=Brown Chest
+tile.colored_chest.black.name=Black Chest
+tile.colored_chest.gray.name=Gray Chest
+tile.colored_chest.silver.name=Light Gray Chest
+tile.colored_chest.white.name=White Chest
+
+# stucco
+tile.stucco.red.name=Red Stucco
+tile.stucco.orange.name=Orange Stucco
+tile.stucco.yellow.name=Yellow Stucco
+tile.stucco.lime.name=Lime Stucco
+tile.stucco.green.name=Green Stucco
+tile.stucco.light_blue.name=Light Blue Stucco
+tile.stucco.cyan.name=Cyan Stucco
+tile.stucco.blue.name=Blue Stucco
+tile.stucco.indigo.name=Indigo Stucco
+tile.stucco.purple.name=Purple Stucco
+tile.stucco.pink.name=Pink Stucco
+tile.stucco.brown.name=Brown Stucco
+tile.stucco.black.name=Black Stucco
+tile.stucco.gray.name=Gray Stucco
+tile.stucco.silver.name=Light Gray Stucco
+tile.stucco.white.name=Stucco
+
+# slabs
+tile.slab.stone.name=Stone Slab
+tile.slab.stone_brick.name=Stone Brick Slab
+tile.slab.polished_stone.name=Polished Stone Slab
+tile.slab.polished_stone_brick.name=Polished Stone Brick Slab
+tile.slab.sandstone.name=Sandstone Slab
+tile.slab.cobblestone.name=Cobblestone Slab
+tile.slab.brick.name=Brick Slab
+tile.slab.mossy_cobblestone.name=Mossy Cobblestone Slab
+tile.slab.oak.name=Wooden Slab
+tile.slab.crimson.name=Crimson Slab
+tile.slab.fir.name=Firwood Slab
+tile.slab.cherry.name=Cherry Slab
+tile.slab.sponge.name=Sponge Slab
+tile.slab.obsidian.name=Obsidian Slab
+tile.slab.basalt.name=Basalt Slab
+tile.slab.polished_basalt.name=Polished Basalt Slab
+tile.slab.basalt_brick.name=Basalt Brick Slab
+tile.slab.brimstone.name=Brimstone Slab
+tile.slab.brimstone_brick.name=Brimstone Brick Slab
+tile.slab.limestone.name=Limestone Slab
+tile.slab.limestone_brick.name=Limestone Brick Slab
+tile.slab.polished_limestone.name=Polished Limestone Slab
+tile.slab.archaic_polished_limestone.name=Archaic Polished Limestone Slab
+tile.slab.snow.name=Snow Brick Slab
+tile.slab.ice.name=Ice Brick Slab
+tile.slab.sandstone_brick.name=Sandstone Brick Slab
+tile.slab.soul_sandstone_brick.name=Soul Sandstone Brick Slab
+tile.slab.soul_sandstone.name=Soul Sandstone Slab
+tile.slab.spruce.name=Spruce Slab
+tile.slab.ebony.name=Ebony Slab
+tile.slab.azure.name=Azure Slab
+tile.slab.hardened_clay.name=Hardened Clay Slab
+tile.slab.terracotta_brick.name=Terracotta Brick Slab
+tile.slab.fired_brick.name=Fired Brick Slab
+tile.slab.cobblestone_brick.name=Cobblestone Brick Slab
+tile.slab.cloudstone.name=Cloudstone Slab
+tile.slab.cloudstone_brick.name=Cloudstone Brick Slab
+tile.slab.brimcloud_brick.name=Brimcloud Brick Slab
+tile.slab.cobbled_limestone.name=Cobbled Limestone Slab
+tile.slab.opal_brick.name=Opal Brick Slab
+tile.slab.ridrock.name=Ridrock Slab
+tile.slab.ridrock_brick.name=Ridrock Brick Slab
+tile.slab.magma_brick.name=Magma Brick Slab
+tile.slab.kottamagma_brick.name=Kottamagma Brick Slab
+tile.slab.blood_magma_brick.name=Blood Magma Brick Slab
+tile.slab.sulphurous_magma_brick.name=Sulphurous Magma Brick Slab
+tile.slab.chromagma_brick.name=Chromagma Brick Slab
+tile.slab.rainbow_brick.name=Rainbow Brick Slab
+tile.slab.mineral_sandstone.name=Mineral Sandstone Slab
+tile.slab.mineral_sandstone_brick.name=Mineral Sandstone Brick Slab
+tile.slab.slate.name=Slate Slab
+tile.slab.slate_brick.name=Slate Brick Slab
+tile.slab.slate_tile.name=Slate Tile Slab
+tile.slab.cobbled_quartz.name=Cobbled Quartz Slab
+tile.slab.cobbled_citrine.name=Cobbled Citrine Slab
+tile.slab.cobbled_mythril.name=Cobbled Mythril Slab
+tile.slab.cobbled_jet.name=Cobbled Jet Slab
+tile.slab.thistlewood.name=Thistlewood Slab
+tile.slab.slag.name=Slag Slab
+tile.slab.slag_brick.name=Slag Brick Slab
+tile.slab.scorching_slag_brick.name=Scorching Slag Brick Slab
+tile.slab.scoria.name=Scoria Slab
+tile.slab.granite.name=Granite Slab
+tile.slab.scoria_brick.name=Scoria Brick Slab
+tile.slab.granite_brick.name=Granite Brick Slab
+tile.slab.salsa_brick.name=Salsa Brick Slab
+tile.slab.limescoric_brick.name=Limescoric Brick Slab
+tile.slab.graniscoric_brick.name=Graniscoric Brick Slab
+tile.slab.coquina_brick.name=Coquina Brick Slab
+tile.slab.acidshell_brick.name=Acidshell Brick Slab
+tile.slab.quartz_brick.name=Quartz Brick Slab
+tile.slab.citrine_brick.name=Citrine Brick Slab
+tile.slab.mythril_brick.name=Mythril Brick Slab
+tile.slab.jet_brick.name=Jet Brick Slab
+tile.slab.nether_brick.name=Nether Brick Slab
+tile.slab.coquina_rock.name=Coquina Rock Slab
+tile.slab.acidshell_rock.name=Acidshell Rock Slab
+tile.slab.flesh_brick.name=Flesh Brick Slab
+tile.slab.cinderbrick.name=Cinderbrick Slab
+
+# stairs
+tile.stair.stone.name=Stone Stairs
+tile.stair.stone_brick.name=Stone Brick Stairs
+tile.stair.polished_stone_brick.name=Polished Stone Brick Stairs
+tile.stair.basalt.name=Basalt Stairs
+tile.stair.brimstone.name=Brimstone Stairs
+tile.stair.brimstone_brick.name=Brimstone Brick Stairs
+tile.stair.oak.name=Wooden Stairs
+tile.stair.crimson.name=Crimson Stairs
+tile.stair.fir.name=Firwood Stairs
+tile.stair.cherry.name=Cherry Stairs
+tile.stair.cobblestone.name=Cobblestone Stairs
+tile.stair.brick.name=Brick Stairs
+tile.stair.sponge.name=Sponge Stairs
+tile.stair.mossy_cobblestone.name=Mossy Cobblestone Stairs
+tile.stair.basalt_brick.name=Basalt Brick Stairs
+tile.stair.snow_brick.name=Snow Brick Stairs
+tile.stair.ice_brick.name=Ice Brick Stairs
+tile.stair.limestone.name=Limestone Stairs
+tile.stair.limestone_brick.name=Limestone Brick Stairs
+tile.stair.hardened_clay.name=Hardened Clay Stairs
+tile.stair.terracotta_brick.name=Terracotta Brick Stairs
+tile.stair.sandstone.name=Sandstone Stairs
+tile.stair.soul_sandstone.name=Soul Sandstone Stairs
+tile.stair.fired_brick.name=Fired Brick Stairs
+tile.stair.cobblestone_brick.name=Cobblestone Brick Stairs
+tile.stair.cloudstone.name=Cloudstone Stairs
+tile.stair.cloudstone_brick.name=Cloudstone Brick Stairs
+tile.stair.brimcloud_brick.name=Brimcloud Brick Stairs
+tile.stair.cobbled_limestone.name=Cobbled Limestone Stairs
+tile.stair.spruce.name=Spruce Stairs
+tile.stair.ebony.name=Ebony Stairs
+tile.stair.azure.name=Azure Stairs
+tile.stair.opal_brick.name=Opal Brick Stairs
+tile.stair.ridrock.name=Ridrock Stairs
+tile.stair.ridrock_brick.name=Ridrock Brick Stairs
+tile.stair.magma_brick.name=Magma Brick Stairs
+tile.stair.kottamagma_brick.name=Kottamagma Brick Stairs
+tile.stair.blood_magma_brick.name=Blood Magma Brick Stairs
+tile.stair.sulphurous_magma_brick.name=Sulphurous Magma Brick Stairs
+tile.stair.chromagma_brick.name=Chromagma Brick Stairs
+tile.stair.rainbow_brick.name=Rainbow Brick Stairs
+tile.stair.mineral_sandstone.name=Mineral Sandstone Stairs
+tile.stair.slate.name=Slate Stairs
+tile.stair.slate_brick.name=Slate Brick Stairs
+tile.stair.slate_tile.name=Slate Tile Stairs
+tile.stair.cobbled_quartz.name=Cobbled Quartz Stairs
+tile.stair.cobbled_citrine.name=Cobbled Citrine Stairs
+tile.stair.cobbled_mythril.name=Cobbled Mythril Stairs
+tile.stair.cobbled_jet.name=Cobbled Jet Stairs
+tile.stair.thistlewood.name=Thistlewood Stairs
+tile.stair.slag.name=Slag Stairs
+tile.stair.slag_brick.name=Slag Brick Stairs
+tile.stair.scorching_slag_brick.name=Scorching Slag Brick Stairs
+tile.stair.scoria.name=Scoria Stairs
+tile.stair.granite.name=Granite Stairs
+tile.stair.scoria_brick.name=Scoria Brick Stairs
+tile.stair.granite_brick.name=Granite Brick Stairs
+tile.stair.salsa_brick.name=Salsa Stairs
+tile.stair.limescoric_brick.name=Limescoric Stairs
+tile.stair.graniscoric_brick.name=Graniscoric Stairs
+tile.stair.coquina_brick.name=Coquina Brick Stairs
+tile.stair.acidshell_brick.name=Acidshell Brick Stairs
+tile.stair.quartz_brick.name=Quartz Brick Stairs
+tile.stair.citrine_brick.name=Citrine Brick Stairs
+tile.stair.mythril_brick.name=Mythril Brick Stairs
+tile.stair.jet_brick.name=Jet Brick Stairs
+tile.stair.nether_brick.name=Nether Brick Stairs
+tile.stair.coquina_rock.name=Coquina Rock Stairs
+tile.stair.acidshell_rock.name=Acidshell Rock Stairs
+tile.stair.flesh_brick.name=Flesh Brick Stairs
+tile.stair.cinderbrick.name=Cinderbrick Stairs
+
+# old fences
+tile.fence.oak.name=Fence (Old)
+tile.fence.crimson.name=Crimson Fence (Old)
+tile.fence.fir.name=Firwood Fence (Old)
+tile.rock_fence.basalt.name=Basalt Brick Fence (Old)
+tile.rock_fence.cobble.name=Cobblestone Fence (Old)
+tile.rock_fence.mossy.name=Mossy Cobblestone Fence (Old)
+
+# new fences
+tile.oak_fence.name=Oak Fence
+tile.crimson_fence.name=Crimson Fence
+tile.fir_fence.name=Fir Fence
+tile.cherry_fence.name=Cherry Fence
+tile.spruce_fence.name=Spruce Fence
+tile.ebony_fence.name=Ebony Fence
+tile.azure_fence.name=Azure Fence
+tile.thistlewood_fence.name=Thistlewood Fence
+tile.cobblestone_fence.name=Cobblestone Fence
+tile.mossy_cobblestone_fence.name=Mossy Cobblestone Fence
+tile.basalt_brick_fence.name=Basalt Brick Fence
+tile.cloudstone_fence.name=Cloudstone Fence
+tile.brimstone_fence.name=Brimstone Fence
+tile.cobbled_limestone_fence.name=Cobbled Limestone Fence
+tile.iron_fence.name=Iron Fence
+tile.gold_fence.name=Gold Fence
+tile.nether_brick_fence.name=Nether Brick Fence
+
+# fence gates
+tile.fenceGate.oak.name=Fence Gate
+tile.fenceGate.crimson.name=Crimson Fence Gate
+tile.fenceGate.fir.name=Firwood Fence Gate
+tile.fenceGate.cherry.name=Cherry Fence Gate
+tile.fenceGate.spruce.name=Spruce Fence Gate
+tile.fenceGate.ebony.name=Ebony Fence Gate
+tile.fenceGate.azure.name=Azure Fence Gate
+tile.fenceGate.thistlewood.name=Thistlewood Fence Gate
+tile.fenceGate.cobblestone.name=Cobblestone Fence Gate
+tile.fenceGate.mossyCobblestone.name=Mossy Cobblestone Fence Gate
+tile.fenceGate.basaltBrick.name=Basalt Brick Fence Gate
+tile.fenceGate.cloudstone.name=Cloudstone Fence Gate
+tile.fenceGate.brimstone.name=Brimstone Fence Gate
+tile.fenceGate.cobbled_limestone.name=Cobbled Limestone Fence Gate
+tile.fenceGate.iron.name=Iron Fence Gate
+tile.fenceGate.gold.name=Gold Fence Gate
+tile.fenceGate.nether_brick.name=Nether Brick Fence Gate
+
+# mechanicals
+tile.gear.name=Gear
+tile.motor.name=Motor Block
+tile.lamp.name=Lamp Block
+tile.combustion_block.name=Combustion Block
+tile.relay.name=Relay Block
+tile.wait.name=Wait Block
+tile.not_gate.name=NOT Gate
+tile.and_gate.name=AND Gate
+tile.or_gate.name=OR Gate
+tile.xor_gate.name=XOR Gate
+tile.conveyor_belt.name=Conveyor Belt
+tile.tnt.name=TNT
+tile.pistonBase.name=Piston
+tile.pistonStickyBase.name=Sticky Piston
+tile.dispenser.name=Dispenser
+tile.note_block.name=Note Block
+tile.button.name=Stone Button
+tile.brimstone_button.name=Brimstone Button
+tile.oak_button.name=Oak Button
+tile.crimson_button.name=Crimson Button
+tile.fir_button.name=Firwood Button
+tile.cherry_button.name=Cherry Button
+tile.spruce_button.name=Spruce Button
+tile.ebony_button.name=Ebony Button
+tile.azure_button.name=Azure Button
+tile.thistlewood_button.name=Thistlewood Button
+tile.stone_pressure_plate.name=Stone Pressure Plate
+tile.iron_pressure_plate.name=Iron Pressure Plate
+tile.oak_pressure_plate.name=Oak Pressure Plate
+tile.crimson_pressure_plate.name=Crimson Pressure Plate
+tile.fir_pressure_plate.name=Firwood Pressure Plate
+tile.cherry_pressure_plate.name=Cherry Pressure Plate
+tile.spruce_pressure_plate.name=Spruce Pressure Plate
+tile.ebony_pressure_plate.name=Ebony Pressure Plate
+tile.azure_pressure_plate.name=Azure Pressure Plate
+tile.thistlewood_pressure_plate.name=Thistlewood Pressure Plate
+tile.tongue_pressure_plate.name=Tongue Pressure Plate
+
+# rails
+tile.rail.name=Rail
+tile.powered_rail.name=Powered Rail
+tile.detector_rail.name=Detector Rail
+
+
+###################
+####   ITEMS   ####
+###################
+
+item_description.donor_item=Donor Item
+
+# Legends:
+# - %damage | Remaining durability
+# - %max-damage | Max durability of tool
+item.tool.desc=Durability: %damage/%max-damage
+item.tool.attackdamage=Attack Damage
+item.tool.firedamage=Fire Damage
+item.tool.frostdamage=Frost Damage
+item.ability=§7Ability: %s
+# tool abilities
+item.ability.silk_touch=§eSilk Touch
+item.ability.smelt_touch=§eSmelt Touch
+item.ability.fortune=§eFortune
+item.ability.haste=§eHaste Over Time
+# armor abilities
+item.ability.fire_resistant=§eFire Resistant
+item.ability.thorns=§eThorns
+item.ability.deflect=§eDeflects Arrows
+item.ability.quicker_in_fluids=§eQuicker in Fluids
+item.ability.faster_when_broken=§eFaster when Broken
+item.ability.melts_in_lava=§cMelts in Lava
+
+# tools
+item.wooden_sword.name=Wooden Sword
+item.wooden_shovel.name=Wooden Shovel
+item.wooden_pickaxe.name=Wooden Pickaxe
+item.wooden_axe.name=Wooden Axe
+item.wooden_hoe.name=Wooden Hoe
+item.stone_sword.name=Stone Sword
+item.stone_shovel.name=Stone Shovel
+item.stone_pickaxe.name=Stone Pickaxe
+item.stone_axe.name=Stone Axe
+item.stone_hoe.name=Stone Hoe
+item.iron_sword.name=Iron Sword
+item.iron_shovel.name=Iron Shovel
+item.iron_pickaxe.name=Iron Pickaxe
+item.iron_axe.name=Iron Axe
+item.iron_hoe.name=Iron Hoe
+item.gold_sword.name=Golden Sword
+item.gold_shovel.name=Golden Shovel
+item.gold_pickaxe.name=Golden Pickaxe
+item.gold_axe.name=Golden Axe
+item.gold_hoe.name=Golden Hoe
+item.diamond_sword.name=Diamond Sword
+item.diamond_shovel.name=Diamond Shovel
+item.diamond_pickaxe.name=Diamond Pickaxe
+item.diamond_axe.name=Diamond Axe
+item.diamond_hoe.name=Diamond Hoe
+item.molten_sword.name=Molten Sword
+item.molten_shovel.name=Molten Shovel
+item.molten_pickaxe.name=Molten Pickaxe
+item.molten_axe.name=Molten Axe
+item.molten_hoe.name=Molten Hoe
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_hoe.name=Obsidian Hoe
+
+# fletching
+item.bow.name=Bow
+item.arrow.name=Arrow
+item.glider_arrow.name=Glider Arrow
+item.goldArrow.name=Golden Arrow
+
+# buckets
+item.bucket.name=Bucket
+item.water_bucket.name=Water Bucket
+item.lava_bucket.name=Lava Bucket
+item.milk_bucket.name=Milk Bucket
+item.slime_in_a_bucket.name=Slime in a Bucket
+item.slime_in_a_bucket.size=Size: 
+item.slime_in_a_bucket.size_small=Small
+item.slime_in_a_bucket.size_medium=Medium
+item.slime_in_a_bucket.size_large=Large
+item.fox_in_a_bucket.name=Fox in a Bucket
+item.fox_in_a_bucket.owner=Owner: 
+item.fox_in_a_bucket.fox_name=Name: 
+item.wolf_in_a_bucket.name=Wolf in a Bucket
+item.maggot_in_a_bucket.name=Maggot in a Bucket
+item.maggot_in_a_bucket.size=Size: 
+item.maggot_in_a_bucket.size_tiny=Tiny
+item.maggot_in_a_bucket.size_small=Small
+item.maggot_in_a_bucket.size_medium=Medium
+item.maggot_in_a_bucket.size_large=Large
+item.maggot_in_a_bucket.size_bodacious=Bodacious
+item.sanguis_bucket.name=Sanguis Bucket
+item.acid_bucket.name=Acid Bucket
+item.golden_bucket.name=Golden Bucket
+item.golden_water_bucket.name=Golden Water Bucket
+item.golden_lava_bucket.name=Golden Lava Bucket
+item.golden_sanguis_bucket.name=Golden Sanguis Bucket
+item.golden_acid_bucket.name=Golden Acid Bucket
+
+# misc tools & related
+item.flint_and_steel.name=Flint and Steel
+item.fishing_rod.name=Fishing Rod
+item.wrench.name=Wrench
+item.compass.name=Compass
+item.clock.name=Clock
+# Legends:
+# - %day | Days passed / current days
+# - %hour12 | 12 hour cycle
+# - %hour24 | 24 hour cycle
+# - %ampm | Displays AM or PM depending on the hour
+item.clock.desc=Day %day - %hour12:00 %ampm
+item.map.name=Map
+item.shears.name=Shears
+item.name_tag.name=Name Tag
+item.flower_crown.name=Flower Crown
+item.cloud_boots.name=Cloud Boots
+item.cloud_boots.description=Sprint key to dash!
+item.augmentite_shades.name=Augmentite Shades
+item.mysterious_mask.name=Mysterious Mask
+item.welding_mask.name=Welding Mask
+item.dungeon_key.name=Dungeon Key
+item.perfect_blossom.name=Perfect Blossom
+item.frying_pan.name=Frying Pan
+item.obsidian_tool_repair_kit.name=Obsidian Tool Repair Kit
+item.gardening_hat.name=Gardening Hat
+
+# skulls
+item.scaribou_skull.name=Scaribou Skull
+item.zombie_skull.name=Zombie Skull
+item.skeleton_skull.name=Skeleton Skull
+item.creeper_skull.name=Creeper Skull
+item.wither_skeleton_skull.name=Wither Skeleton Skull
+item.nether_zombie_skull.name=Nether Zombie Skull
+item.demon_skull.name=Demon Skull
+item.zombie_pigmen_skull.name=Zombie Pigmen Skull
+item.blaze_skull.name=Blaze Skull
+item.spider_skull.name=Spider Skull
+
+# armor
+item.leather_helmet.name=Leather Cap
+item.leather_chestplate.name=Leather Tunic
+item.leather_leggings.name=Leather Pants
+item.leather_boots.name=Leather Boots
+item.chainmail_helmet.name=Chain Helmet
+item.chainmail_chestplate.name=Chain Chestplate
+item.chainmail_leggings.name=Chain Leggings
+item.chainmail_boots.name=Chain Boots
+item.iron_helmet.name=Iron Helmet
+item.iron_chestplate.name=Iron Chestplate
+item.iron_leggings.name=Iron Leggings
+item.iron_boots.name=Iron Boots
+item.diamond_helmet.name=Diamond Helmet
+item.diamond_chestplate.name=Diamond Chestplate
+item.diamond_leggings.name=Diamond Leggings
+item.diamond_boots.name=Diamond Boots
+item.gold_helmet.name=Golden Helmet
+item.gold_chestplate.name=Golden Chestplate
+item.gold_leggings.name=Golden Leggings
+item.gold_boots.name=Golden Boots
+item.cloth_helmet.name=Cloth Helmet
+item.cloth_chestplate.name=Cloth Chestplate
+item.cloth_leggings.name=Cloth Leggings
+item.cloth_boots.name=Cloth Boots
+
+# fish
+item.raw_fish.name=Raw Fish
+item.cooked_fish.name=Cooked Fish
+item.raw_netherfish.name=Raw Netherfish
+item.cooked_netherfish.name=Cooked Netherfish
+item.fish.heel.name=Heel
+item.fish.lava_fish.name=Lava Fish
+item.fish.zombie_fish.name=Zombie Fish
+item.fish.salmon.name=Salmon
+item.fish.shulki_shulki.name=Shulki Shulki
+item.fish.crystalacarp.name=Crystalacarp
+item.fish.wasp_fish.name=Wasp Fish
+item.fish.icicle_fin.name=Icicle Fin
+item.fish.slimyfish.name=Slimyfish
+item.fish.dirt_fish.name=Dirtfish
+item.fish.bass.name=Bass
+item.fish.brick_fish.name=Brickfish
+item.fish.obsidian_trout.name=Obsidian Trout
+item.fish.bone_fish.name=Bonefish
+item.fish.sakurakoi.name=Sakurakoi
+### PLACEHOLDER NAMES ###
+item.fish.crimson_swordfish.name=Crimson Swordfish
+item.fish.langarfish.name=Langarfish
+item.fish.scalefin.name=Scalefin
+item.fish.icksnapper.name=Icksnapper
+item.fish.bloodgill.name=Bloodgill
+item.fish.morevil_fishroom.name=Morevil Fishroom
+
+# materials
+item.coal.name=Coal
+item.diamond.name=Diamond
+item.iron_ingot.name=Iron Ingot
+item.gold_ingot.name=Gold Ingot
+item.stick.name=Stick
+item.bowl.name=Bowl
+item.string.name=String
+item.feather.name=Feather
+item.sulphur.name=Gunpowder
+item.flint.name=Flint
+item.leather.name=Leather
+item.brick.name=Brick
+item.clay_ball.name=Clay Ball
+item.sugar_cane.name=Sugar Cane
+item.paper.name=Paper
+item.book.name=Book
+item.slimeball.name=Slimeball
+item.bone.name=Bone
+item.sugar.name=Sugar
+item.glowstone_dust.name=Glowstone Dust
+item.ash.name=Ash
+item.honeycomb.name=Honeycomb
+item.bottle.name=Bottle
+item.fire_charge.name=Fire Charge
+item.toxic_charge.name=Toxic Charge
+item.lightning_charge.name=Lightning Charge
+item.blood_charge.name=Blood Charge
+item.augmentite.name=Augmentite
+item.corundum_plate.name=Corundum Plate
+
+# crops
+item.seeds.name=Wheat Seeds
+item.wheat.name=Wheat
+item.carrot_seeds.name=Carrot Seeds
+item.pumpkin_seeds.name=Pumpkin Seeds
+item.watermelon_seeds.name=Watermelon Seeds
+item.corn_kernels.name=Corn Kernels
+item.wild_seeds.name=Wild Seeds
+item.mint_seeds.name=Mint Seeds
+
+# throwables
+item.snowball.name=Snowball
+item.egg.name=Egg
+item.sticky_torch.name=Sticky Torch
+item.dynamite.name=Dynamite
+item.bouncy_dynamite.name=Bouncy Dynamite
+item.slagged_dynamite.name=Slagged Dynamite
+item.crystalline_dynamite.name=Crystalline Dynamite
+item.flaming_potion.name=Flaming Potion
+item.augmented_pearl.name=Augmented Pearl
+
+# placeables
+item.bed.name=Bed
+tile.bed.occupied=This bed is occupied
+tile.bed.noSleep=You can only sleep at night
+tile.bed.notValid=Your home bed was missing or obstructed
+item.painting.name=Painting
+item.item_frame.name=Item Frame
+item.sign.name=Sign
+item.lilypad.name=Lilypad
+item.waterlily.name=Water Lily
+item.blue_waterlily.name=Blue Waterlily
+item.yellow_waterlily.name=Yellow Waterlily
+
+# foodstuffs
+item.apple.name=Apple
+item.cookie.name=Cookie
+item.bread.name=Bread
+item.mushroom_stew.name=Mushroom Stew
+item.raw_porkchop.name=Raw Porkchop
+item.cooked_porkchop.name=Cooked Porkchop
+item.golden_apple.name=Golden Apple
+item.cake.name=Cake
+item.blueberry.name=Blueberry
+item.blueberry_pie.name=Blueberry Pie
+item.potato.name=Potato
+item.cooked_potato.name=Cooked Potato
+item.carrot.name=Carrot
+item.cheese_slice.name=Cheese Slice
+item.cheese_wheel.name=Cheese Wheel
+item.cooked_egg.name=Cooked Egg
+item.ice_cream.name=Ice Cream
+item.watermelon_slice.name=Watermelon Slice
+item.fish_stew.name=Fish Stew
+item.raw_corn.name=Raw Corn
+item.roasted_corn.name=Roasted Corn
+item.hard_candy.name=Hard Candy
+item.candy_corn.name=Candy Corn
+item.caramel.name=Caramel
+item.popcorn.name=Popcorn
+item.bismuth_apple.name=Bismuth Apple
+item.bulberry.name=Bulberry
+item.spineapple.name=Spineapple
+item.prickly_pear.name=Prickly Pear
+item.mint_leaf.name=Mint Leaf
+item.candy_cane.name=Candy Cane
+item.apple_smoothie.name=Apple Smoothie
+item.blueberry_smoothie.name=Blueberry Smoothie
+item.watermelon_smoothie.name=Watermelon Smoothie
+item.bulberry_smoothie.name=Bulberry Smoothie
+item.spineapple_smoothie.name=Spineapple Smoothie
+item.prickly_pear_smoothie.name=Prickly Pear Smoothie
+item.minty_smoothie.name=Minty Smoothie
+item.raw_morsel.name=Raw Morsel
+item.cooked_morsel.name=Cooked Morsel
+item.cactus_soup.name=Cactus Soup
+item.roasted_seeds.name=Roasted Seeds
+
+# doors
+item.oak_door.name=Oak Door
+item.crimson_door.name=Crimson Door
+item.fir_door.name=Fir Door
+item.cherry_door.name=Cherry Door
+item.spruce_door.name=Spruce Door
+item.ebony_door.name=Ebony Door
+item.azure_door.name=Azure Door
+item.thistlewood_door.name=Thistlewood Door
+item.iron_door.name=Iron Door
+
+# furniture
+item.oak_chair.name=Oak Chair
+item.crimson_chair.name=Crimson Chair
+item.fir_chair.name=Fir Chair
+item.cherry_chair.name=Cherry Chair
+item.spruce_chair.name=Spruce Chair
+item.ebony_chair.name=Ebony Chair
+item.azure_chair.name=Azure Chair
+item.thistlewood_chair.name=Thistlewood Chair
+item.stone_chair.name=Stone Chair
+item.glass_chair.name=Glass Chair
+item.oak_table.name=Oak Table
+item.crimson_table.name=Crimson Table
+item.fir_table.name=Fir Table
+item.cherry_table.name=Cherry Table
+item.spruce_table.name=Spruce Table
+item.ebony_table.name=Ebony Table
+item.azure_table.name=Azure Table
+item.thistlewood_table.name=Thistlewood Table
+item.stone_table.name=Stone Table
+item.glass_table.name=Glass Table
+
+# vehicles
+item.saddle.name=Saddle
+item.leather_pig_armor.name=Leather Pig Armor
+item.iron_pig_armor.name=Iron Pig Armor
+item.gold_pig_armor.name=Gold Pig Armor
+item.diamond_pig_armor.name=Diamond Pig Armor
+item.augmentite_pig_armor.name=Augmentite Pig Armor
+item.boat.name=Boat
+item.minecart.name=Minecart
+item.minecart_with_chest.name=Minecart with Chest
+item.minecart_with_furnace.name=Minecart with Furnace
+
+# music
+item.record.name=Music Disc
+item.wooden_flute.name=Wooden Flute
+item.iron_flute.name=Iron Flute
+item.gold_flute.name=Gold Flute
+item.diamond_flute.name=Diamond Flute
+item.corundum_flute.name=Corundum Flute
+
+# plushies & cute things
+item.fox_plushie.name=Fox Plushie
+item.snow_fox_plushie.name=Snow Fox Plushie
+item.red_wyvern_plushie.name=Red Wyvern Plushie
+item.green_wyvern_plushie.name=Green Wyvern Plushie
+item.blue_wyvern_plushie.name=Blue Wyvern Plushie
+item.blood_wyvern_plushie.name=Blood Wyvern Plushie
+item.demon_plushie.name=Demon Plushie
+item.shark_plushie.name=Shark Plushie
+
+# potions
+item.potion.name=Potion
+item.flash_flask.name=Flash Flask
+item.flash_flaskwe.name=Flash Flask of
+item.splash_potion.name=Splash Potion
+item.potion_fire.name=Bottled Flame
+item.cursed_potion.name=Cursed Potion
+
+# spawn eggs
+item.spawnEgg.cow.name=Cow Spawn Egg
+item.spawnEgg.fox.name=Fox Spawn Egg
+item.spawnEgg.chicken.name=Chicken Spawn Egg
+item.spawnEgg.sheep.name=Sheep Spawn Egg
+item.spawnEgg.wolf.name=Wolf Spawn Egg
+item.spawnEgg.zombie.name=Zombie Spawn Egg
+item.spawnEgg.skeleton.name=Skeleton Spawn Egg
+item.spawnEgg.creeper.name=Creeper Spawn Egg
+item.spawnEgg.spider.name=Spider Spawn Egg
+item.spawnEgg.mooshroom.name=Mooshroom Spawn Egg
+item.spawnEgg.moobloom.name=Moobloom Spawn Egg
+item.spawnEgg.zombie_pigman.name=Zombie Pigman Spawn Egg
+item.spawnEgg.slime.name=Slime Spawn Egg
+item.spawnEgg.stroldian.name=Stroldian Spawn Egg
+item.spawnEgg.giantZombie.name=Giant Spawn Egg
+item.spawnEgg.blaze.name=Blaze Spawn Egg
+item.spawnEgg.pig.name=Pig Spawn Egg
+item.spawnEgg.zombiepigman.name=Zombie Pigman Spawn Egg
+item.spawnEgg.wasp.name=Wasp Spawn Egg
+item.spawnEgg.wyvern.red.name=Red Wyvern Spawn Egg
+item.spawnEgg.wyvern.green.name=Green Wyvern Spawn Egg
+item.spawnEgg.wyvern.blue.name=Blue Wyvern Spawn Egg
+item.spawnEgg.scaribou.name=Scaribou Spawn Egg
+item.spawnEgg.cucurboo.name=Cucurboo Spawn Egg
+item.spawnEgg.wither_skeleton.name=Wither Skeleton Spawn Egg
+item.spawnEgg.wither_general.name=Wither General Spawn Egg
+item.spawnEgg.demon.name=Demon Spawn Egg
+item.spawnEgg.demon_spirit.name=Demon Spirit Spawn Egg
+item.spawnEgg.maggot.name=Maggot Spawn Egg
+item.spawnEgg.nether_zombie.name=Nether Zombie Spawn Egg
+item.spawnEgg.wyvern.blood.name=Blood Wyvern Spawn Egg
+item.spawnEgg.moolip.name=Moolip Spawn Egg
+item.spawnEgg.brown_mooshroom.name=Brown Mooshroom Spawn Egg
+item.spawnEgg.glowing_mooshroom.name=Glowing Mooshroom Spawn Egg
+item.spawnEgg.mooshevil.name=Mooshevil Spawn Egg
+
+# dyes & related
+item.dye.red.name=Red Dye
+item.dye.orange.name=Orange Dye
+item.dye.yellow.name=Yellow Dye
+item.dye.lime.name=Lime Dye
+item.dye.green.name=Green Dye
+item.dye.light_blue.name=Light Blue Dye
+item.dye.cyan.name=Cyan Dye
+item.dye.indigo.name=Indigo Dye
+item.dye.blue.name=Blue Dye
+item.dye.purple.name=Purple Dye
+item.dye.pink.name=Pink Dye
+item.dye.brown.name=Brown Dye
+item.dye.black.name=Black Dye
+item.dye.silver.name=Light Gray Dye
+item.dye.gray.name=Gray Dye
+item.dye.white.name=Bone Meal
+item.ball.red.name=Red Ball
+item.ball.orange.name=Orange Ball
+item.ball.yellow.name=Yellow Ball
+item.ball.lime.name=Lime Ball
+item.ball.green.name=Green Ball
+item.ball.light_blue.name=Light Blue Ball
+item.ball.cyan.name=Cyan Ball
+item.ball.blue.name=Blue Ball
+item.ball.indigo.name=Indigo Ball
+item.ball.purple.name=Purple Ball
+item.ball.pink.name=Pink Ball
+item.ball.brown.name=Brown Ball
+item.ball.black.name=Black Ball
+item.ball.gray.name=Gray Ball
+item.ball.silver.name=Light Gray Ball
+item.ball.white.name=White Ball
+
+item.potion.0=Pure Fire Resistance
+item.potion.1=Foul
+item.potion.2=Bawling
+item.potion.3=Off
+item.potion.4=Heavy
+item.potion.5=Tasteful
+item.potion.6=Dazzling
+item.potion.7=Uninteresting
+item.potion.8=Morose
+item.potion.9=Bubbling
+item.potion.10=Perky
+item.potion.11=Bulky
+item.potion.12=Lavish
+item.potion.13=Suave
+item.potion.14=Salient
+item.potion.15=Fired
+item.potion.16=Admonishing
+item.potion.17=Rowdy
+item.potion.18=Extreme
+item.potion.19=Cuddly
+item.potion.20=Safe
+item.potion.21=Stressful
+
+item.potion.128=Glittering
+item.potion.129=Pure Breathing
+item.potion.130=Ratted
+item.potion.131=Unsightly
+item.potion.132=AMONG US at 3AM
+item.potion.133=Austere
+item.potion.134=Diffuse
+item.potion.135=Glistening
+item.potion.136=Dark
+item.potion.137=Brave
+item.potion.138=Enjoyable
+item.potion.139=Homely
+item.potion.140=Misty
+item.potion.141=Smelly
+item.potion.142=Methodical
+item.potion.143=Rusty
+item.potion.144=Strange
+item.potion.145=Horrible
+item.potion.146=Cadaverous
+item.potion.147=Plutonian
+item.potion.148=Acherontic
+item.potion.149=Hadean
+
+item.potion.256=Light
+item.potion.257=Elated
+item.potion.258=Pure Regeneration
+item.potion.259=Boring
+item.potion.260=Plain
+item.potion.261=Noisy
+item.potion.262=Stark
+item.potion.263=Lively
+item.potion.264=Putrid
+item.potion.265=Ratty
+item.potion.266=Candid
+item.potion.267=Wonted
+item.potion.268=Gross
+item.potion.269=Ideal
+item.potion.270=Sumptuous
+item.potion.271=Metallic
+item.potion.272=Glamorous
+item.potion.273=Perfumed
+item.potion.274=Slumbersome
+item.potion.275=Weeping
+item.potion.276=Bitter
+item.potion.277=Discordant
+
+item.potion.384=Degenerated
+item.potion.385=Resplendent
+item.potion.386=Neutral
+item.potion.387=Pure Poison
+item.potion.388=Beautiful
+item.potion.389=Frowning
+item.potion.390=Witty
+item.potion.391=Eager
+item.potion.392=Wary
+item.potion.393=Gleaming
+item.potion.394=Bland
+item.potion.395=Zany
+item.potion.396=Sleepy
+item.potion.397=Charming
+item.potion.398=Flashy
+item.potion.399=Disgusting
+item.potion.400=Disastrous
+item.potion.401=Ill
+item.potion.402=Horrid
+item.potion.403=Musty
+item.potion.404=Snobbish
+item.potion.405=Musical
+
+
+item.potion.512=Puffy
+item.potion.513=Cautious
+item.potion.514=Generous
+item.potion.515=Wordy
+item.potion.516=Pure Flight
+item.potion.517=Luxurious
+item.potion.518=Anxious
+item.potion.519=Decrepit
+item.potion.520=Sparkling
+item.potion.521=Based
+item.potion.522=Thin
+item.potion.523=Fancy
+item.potion.524=Weak
+item.potion.525=Indescriptive
+item.potion.526=Conspicuous
+item.potion.527=Limitless
+item.potion.528=Mythological
+item.potion.529=Nauseous
+item.potion.530=Ichorous
+item.potion.531=Futile
+item.potion.532=Complicated
+item.potion.533=Weird
+
+item.potion.640=Warm
+item.potion.641=Major
+item.potion.642=Mushy
+item.potion.643=Fizzing
+item.potion.644=Buttered
+item.potion.645=Pure Haste
+item.potion.646=Redundant
+item.potion.647=Drab
+item.potion.648=Mundane
+item.potion.649=Humid
+item.potion.650=Breathy
+item.potion.651=Magnificent
+item.potion.652=Hot
+item.potion.653=Deluxe
+item.potion.654=Blistering
+item.potion.655=Aimless
+item.potion.656=Spectacular
+item.potion.657=Sunbaked
+item.potion.658=Demonic
+item.potion.659=Wicked
+item.potion.660=Swampy
+item.potion.661=Macabre
+
+item.potion.768=Smoggy
+item.potion.769=Terrible
+item.potion.770=Bad
+item.potion.771=Effortful
+item.potion.772=Boiling
+item.potion.773=Pointless
+item.potion.774=Pure Mining Fatigue
+item.potion.775=Tough
+item.potion.776=Foolish
+item.potion.777=Distrustful
+item.potion.778=Exhilarating
+item.potion.779=Thick
+item.potion.780=Breezy
+item.potion.781=Rhythmic
+item.potion.782=Steady
+item.potion.783=Purposeless
+item.potion.784=Lunar
+item.potion.785=Fraudulent
+item.potion.786=Terrifying
+item.potion.787=Silky
+item.potion.788=Hazy
+item.potion.789=Divisive
+
+item.potion.896=Unkempt
+item.potion.897=Short
+item.potion.898=Fast
+item.potion.899=Filthy
+item.potion.900=Unimportant
+item.potion.901=Gambling
+item.potion.902=High
+item.potion.903=Pure Strength
+item.potion.904=Worthless
+item.potion.905=Perplexing
+item.potion.906=Funny
+item.potion.907=Smiling
+item.potion.908=Noxious
+item.potion.909=Stinky
+item.potion.910=Splendid
+item.potion.911=Reliable
+item.potion.912=Heavenly
+item.potion.913=Obtuse
+item.potion.914=Peculiar
+item.potion.915=Peppy
+item.potion.916=Sunny
+item.potion.917=Machiavellian
+
+item.potion.1024=Cordial
+item.potion.1025=Calm
+item.potion.1026=Tasteless
+item.potion.1027=Humorous
+item.potion.1028=Doubtful
+item.potion.1029=Dashing
+item.potion.1030=Strong
+item.potion.1031=Watery
+item.potion.1032=Pure Weakness
+item.potion.1033=Dubious
+item.potion.1034=Tasty
+item.potion.1035=Dainty
+item.potion.1036=Neat
+item.potion.1037=Bungling
+item.potion.1038=Artless
+item.potion.1039=Stony
+item.potion.1040=Powdery
+item.potion.1041=Zesty
+item.potion.1042=Adventuresome
+item.potion.1043=Acidic
+item.potion.1044=Picturesque
+item.potion.1045=Sombre
+
+item.potion.1152=Chilly
+item.potion.1153=Painful
+item.potion.1154=Alert
+item.potion.1155=Vibrant
+item.potion.1156=Quaint
+item.potion.1157=Crazy
+item.potion.1158=Loud
+item.potion.1159=Peaceful
+item.potion.1160=Effortless
+item.potion.1161=Pure Swiftness
+item.potion.1162=Flat
+item.potion.1163=Harsh
+item.potion.1164=Sour
+item.potion.1165=Spicy
+item.potion.1166=Cynical
+item.potion.1167=Efficient
+item.potion.1168=Zealous
+item.potion.1169=Pretentious
+item.potion.1170=Murky
+item.potion.1171=Ambrosial
+item.potion.1172=Barbaric
+item.potion.1173=Calorific
+
+item.potion.1280=Zestful
+item.potion.1281=Tall
+item.potion.1282=Worrisome
+item.potion.1283=Delicious
+item.potion.1284=Milky
+item.potion.1285=Bewildering
+item.potion.1286=Tiny
+item.potion.1287=Cloudy
+item.potion.1288=Sapid
+item.potion.1289=Pungent
+item.potion.1290=Pure Slowness
+item.potion.1291=Virulent
+item.potion.1292=Slow
+item.potion.1293=Funky
+item.potion.1294=Sticky
+item.potion.1295=Weighted
+item.potion.1296=Devilish
+item.potion.1297=Gloomy
+item.potion.1298=Precocious
+item.potion.1299=Sad
+item.potion.1300=Wizardly
+item.potion.1301=Astonishing
+
+item.potion.1408=Sweet
+item.potion.1409=Acrid
+item.potion.1410=Important
+item.potion.1411=Wacky
+item.potion.1412=Temperate
+item.potion.1413=Principal
+item.potion.1414=Hasty
+item.potion.1415=Boisterous
+item.potion.1416=Average
+item.potion.1417=Viscous
+item.potion.1418=Indecisive
+item.potion.1419=Pure Jump Boost
+item.potion.1420=Crude
+item.potion.1421=Suspicious
+item.potion.1422=Bouncy
+item.potion.1423=Rubbery
+item.potion.1424=Breathtaking
+item.potion.1425=Ecstatic
+item.potion.1426=Yummy
+item.potion.1427=Treacherous
+item.potion.1428=Pitiful
+item.potion.1429=Haunting
+
+item.potion.1536=Untitled
+item.potion.1537=Lucky
+item.potion.1538=Speckled
+item.potion.1539=Clear
+item.potion.1540=Tingy
+item.potion.1541=Intelligent
+item.potion.1542=Alive
+item.potion.1543=Awkward
+item.potion.1544=Inept
+item.potion.1545=Skeptical
+item.potion.1546=Smooth
+item.potion.1547=Generic
+item.potion.1548=Pure Resistance
+item.potion.1549=Uneffective
+item.potion.1550=Confusing
+item.potion.1551=Steel
+item.potion.1552=Joyous
+item.potion.1553=Primeval
+item.potion.1554=Tropical
+item.potion.1555=Proud
+item.potion.1556=Bold
+item.potion.1557=Arrogant
+
+item.potion.1664=Odorless
+item.potion.1665=Regular
+item.potion.1666=Potent
+item.potion.1667=Small
+item.potion.1668=Bright
+item.potion.1669=Debonair
+item.potion.1670=Trustful
+item.potion.1671=Sappy
+item.potion.1672=Spiffy
+item.potion.1673=Arcane
+item.potion.1674=Rasping
+item.potion.1675=Distinct
+item.potion.1676=Rancid
+item.potion.1677=Pure Fragility
+item.potion.1678=Sensible
+item.potion.1679=Glass
+item.potion.1680=Archaic
+item.potion.1681=Critical
+item.potion.1682=Placid
+item.potion.1683=Wispy
+item.potion.1684=Tricky
+item.potion.1685=Truthful
+
+item.potion.1792=Elegant
+item.potion.1793=Shiny
+item.potion.1794=Apace
+item.potion.1795=Stellar
+item.potion.1796=Frozen
+item.potion.1797=Icy
+item.potion.1798=Arctic
+item.potion.1799=Glacial
+item.potion.1800=Avery
+item.potion.1801=Slick
+item.potion.1802=Cold
+item.potion.1803=Slimy
+item.potion.1804=Solid
+item.potion.1805=Brittle
+item.potion.1806=Pure Slipperiness
+item.potion.1807=Igloo
+item.potion.1808=Typical
+item.potion.1809=Atypical
+item.potion.1810=Solemn
+item.potion.1811=Lucid
+item.potion.1812=Angry
+item.potion.1813=Brutal
+
+item.potion.1920=Heated
+item.potion.1921=Shipwright
+item.potion.1922=Unusual
+item.potion.1923=Volatile
+item.potion.1924=Builder
+item.potion.1925=Practical
+item.potion.1926=Impractical
+item.potion.1927=Iron
+item.potion.1928=Soft
+item.potion.1929=Shocking
+item.potion.1930=Deficit
+item.potion.1931=Reach
+item.potion.1932=Resilient
+item.potion.1933=Fragile
+item.potion.1934=Icecube
+item.potion.1935=Pure Construction
+item.potion.1936=Brilliant
+item.potion.1937=Cumbersome
+item.potion.1938=Flavorful
+item.potion.1939=Smart
+item.potion.1940=Simple
+item.potion.1941=Awesome
+
+item.potion.2048=Astral
+item.potion.2049=Salty
+item.potion.2050=Queer
+item.potion.2051=Interesting
+item.potion.2052=Tender
+item.potion.2053=Powerful
+item.potion.2054=Atypical
+item.potion.2055=Distasteful
+item.potion.2056=Wise
+item.potion.2057=Stringy
+item.potion.2058=Burnt
+item.potion.2059=Corrupt
+item.potion.2060=Glowing
+item.potion.2061=Exuberant
+item.potion.2062=Marbled
+item.potion.2063=Enchanted
+item.potion.2064=Pure Adrenaline
+item.potion.2065=Benign
+item.potion.2066=Hateful
+item.potion.2067=Fabled
+item.potion.2068=Silly
+item.potion.2069=Maniacal
+
+item.potion.2176=Savory
+item.potion.2177=Fragrant
+item.potion.2178=Springy
+item.potion.2179=Loving
+item.potion.2180=Palatable
+item.potion.2181=Immaculate
+item.potion.2182=Fantastic
+item.potion.2183=Cowardly
+item.potion.2184=Brazen
+item.potion.2185=Alright
+item.potion.2186=Deathly
+item.potion.2187=Glowing
+item.potion.2188=Sullen
+item.potion.2189=Odd
+item.potion.2190=Frosty
+item.potion.2191=Mysterious
+item.potion.2192=Dumb
+item.potion.2193=Pure Languor
+item.potion.2194=Comforting
+item.potion.2195=Carefree
+item.potion.2196=Jolly
+item.potion.2197=Whimsical
+
+item.potion.2304=Awful
+item.potion.2305=Poor
+item.potion.2306=Foretelling
+item.potion.2307=Deleterious
+item.potion.2308=Pretty
+item.potion.2309=Lesser
+item.potion.2310=Haunting
+item.potion.2311=Catty
+item.potion.2312=Faint
+item.potion.2313=Rough
+item.potion.2314=Spoiled
+item.potion.2315=Angsty
+item.potion.2316=Shimmering
+item.potion.2317=Dusty
+item.potion.2318=Fierce
+item.potion.2319=Memetic
+item.potion.2320=Dreary
+item.potion.2321=Easy
+item.potion.2322=Pure Curse
+item.potion.2323=Sludgy
+item.potion.2324=Wild
+item.potion.2325=Chalky
+
+item.potion.2432=Messy
+item.potion.2433=Lovely
+item.potion.2434=Fleeting
+item.potion.2435=Sinister
+item.potion.2436=Pleasant
+item.potion.2437=Sincere
+item.potion.2438=Energetic
+item.potion.2439=Languid
+item.potion.2440=Fabulous
+item.potion.2441=Melodic
+item.potion.2442=Haughty
+item.potion.2443=Atrocious
+item.potion.2444=Distinguished
+item.potion.2445=Persistent
+item.potion.2446=Sloppy
+item.potion.2447=Chaotic
+item.potion.2448=Lost
+item.potion.2449=Nervous
+item.potion.2450=Convivial
+item.potion.2451=Pure Wither
+item.potion.2452=Evil
+item.potion.2453=Definitive
+
+item.potion.2560=Dreamy
+item.potion.2561=Cool
+item.potion.2562=Cheerful
+item.potion.2563=Essential
+item.potion.2564=Sanguine
+item.potion.2565=Legendary
+item.potion.2566=Conductive
+item.potion.2567=Decisive
+item.potion.2568=Magical
+item.potion.2569=Curious
+item.potion.2570=Foggy
+item.potion.2571=Rich
+item.potion.2572=Ethereal
+item.potion.2573=Cute
+item.potion.2574=Difficult
+item.potion.2575=Scented
+item.potion.2576=Epic
+item.potion.2577=Grand
+item.potion.2578=Dire
+item.potion.2579=Great
+item.potion.2580=Pure Acid Resistance
+item.potion.2581=Fresh
+
+item.potion.2688=Splendiferous
+item.potion.2689=Sulky
+item.potion.2690=Rewarding
+item.potion.2691=Clean
+item.potion.2692=Delightful
+item.potion.2693=Polite
+item.potion.2694=Refreshing
+item.potion.2695=Fearful
+item.potion.2696=Smoky
+item.potion.2697=Daring
+item.potion.2698=Frightening
+item.potion.2699=Timely
+item.potion.2700=Scary
+item.potion.2701=Gullible
+item.potion.2702=Pompous
+item.potion.2703=Happy
+item.potion.2704=Angelic
+item.potion.2705=Masterful
+item.potion.2706=Inspiring
+item.potion.2707=Freaky
+item.potion.2708=Spooky
+item.potion.2709=Pure Infected
+
+item.potion.16384=Rabid Fire Resistance
+item.potion.16385=Rabid Breathing
+item.potion.16386=Rabid Regeneration
+item.potion.16387=Rabid Poison
+item.potion.16388=Rabid Flight
+item.potion.16389=Rabid Haste
+item.potion.16390=Rabid Mining Fatigue
+item.potion.16391=Rabid Strength
+item.potion.16392=Rabid Weakness
+item.potion.16393=Rabid Swiftness
+item.potion.16394=Rabid Slowness
+item.potion.16395=Rabid Jump Boost
+item.potion.16396=Rabid Resistance
+item.potion.16397=Rabid Fragility
+item.potion.16398=Rabid Slipperiness
+item.potion.16399=Rabid Construction
+item.potion.16400=Rabid Adrenaline
+item.potion.16401=Rabid Languor
+item.potion.16402=Rabid Curse
+item.potion.16403=Rabid Wither
+item.potion.16404=Rabid Acid Resistance
+item.potion.16405=Rabid Infected
+item.potion.enhanced=Enhanced
+
+gui.achievements=Achievements
+gui.stats=Statistics
+
+stat.generalButton=General
+stat.blocksButton=Blocks
+stat.itemsButton=Items
+
+stat.used=Times Used
+stat.mined=Times Mined
+stat.depleted=Times Depleted
+stat.crafted=Times Crafted
+
+stat.startGame=Times played
+stat.createWorld=Worlds played
+stat.loadWorld=Saves loaded
+stat.joinMultiplayer=Multiplayer joins
+stat.leaveGame=Games quit
+
+stat.playOneMinute=Minutes Played
+
+stat.walkOneCm=Distance Walked
+stat.fallOneCm=Distance Fallen
+stat.swimOneCm=Distance Swum
+stat.flyOneCm=Distance Flown
+stat.climbOneCm=Distance Climbed
+stat.diveOneCm=Distance Dove
+stat.minecartOneCm=Distance by Minecart
+stat.boatOneCm=Distance by Boat
+stat.pigOneCm=Distance by Pig
+stat.jump=Jumps
+stat.drop=Items Dropped
+
+stat.damageDealt=Damage Dealt
+stat.damageTaken=Damage Taken
+stat.deaths=Number of Deaths
+stat.mobKills=Mob Kills
+stat.playerKills=Player Kills
+stat.fishCaught=Fish Caught
+
+stat.mineBlock=%1$s Mined
+stat.craftItem=%1$s Crafted
+stat.useItem=%1$s Used
+stat.breakItem=%1$s Depleted
+
+achievement.get=Achievement get!
+achievement.taken=Taken!
+achievement.requires=Requires '%1$s'
+
+achievement.taking_inventory=Taking Inventory
+achievement.taking_inventory.desc=Press '%1$s' to open your inventory.
+achievement.getting_wood=Getting Wood
+achievement.getting_wood.desc=Attack a tree until a block of wood pops out
+achievement.benchmarking=Benchmarking
+achievement.benchmarking.desc=Craft a workbench with four blocks of planks
+achievement.time_to_mine=Time to Mine!
+achievement.time_to_mine.desc=Use planks and sticks to make a pickaxe
+achievement.hot_topic=Hot Topic
+achievement.hot_topic.desc=Craft a furnace out of 8 cobblestone blocks
+achievement.acquire_hardware=Acquire Hardware
+achievement.acquire_hardware.desc=Smelt an iron ingot
+achievement.time_to_farm=Time to Farm!
+achievement.time_to_farm.desc=Use planks and sticks to make a hoe
+achievement.bread_rising=Bread Rising
+achievement.bread_rising.desc=Turn wheat into bread
+achievement.the_lie=The Lie
+achievement.the_lie.desc=Wheat, sugar, milk and eggs!
+achievement.getting_an_upgrade=Getting an Upgrade
+achievement.getting_an_upgrade.desc=Construct a stone tool
+achievement.fast_food=Fast Food
+achievement.fast_food.desc=Cook pork in a furnace
+achievement.on_a_rail=On A Rail
+achievement.on_a_rail.desc=Travel by minecart at least 1,000 blocks from where you started 
+achievement.time_to_strike=Time to Strike!
+achievement.time_to_strike.desc=Use planks and sticks to make a sword
+achievement.monster_hunter=Monster Hunter
+achievement.monster_hunter.desc=Attack and kill a monster
+achievement.cow_tipper=Cow Tipper
+achievement.cow_tipper.desc=Harvest some leather
+achievement.when_pigs_fly=When Pigs Fly
+achievement.when_pigs_fly.desc=Fly a pig off a cliff
+achievement.sniper_duel=Sniper Duel
+achievement.sniper_duel.desc=Kill a skeleton with an arrow from more than 30 blocks away
+achievement.diamonds=DIAMONDS!
+achievement.diamonds.desc=Acquire diamonds with your iron tools
+achievement.lethal_lava_land=Lethal Lava Land
+achievement.lethal_lava_land.desc=Build a portal to the Nether
+achievement.and_stay_out=And Stay Out!
+achievement.and_stay_out.desc=Craft a door using planks
+achievement.ode_to_sleep=Ode to Sleep
+achievement.ode_to_sleep.desc=Craft a bed using wool and planks
+achievement.no_trespassing=No Trespassing!
+achievement.no_trespassing.desc=Craft fences using sticks
+achievement.industrial_revolution=Industrial Revolution
+achievement.industrial_revolution.desc=Craft gears using iron
+achievement.intentional_game_design=Intentional Game Design
+achievement.intentional_game_design.desc=Sleep in a bed whilst in the Nether
+achievement.best_friends_forever=Best Friends Forever
+achievement.best_friends_forever.desc=Tame a wolf using bones
+achievement.pocket_flowers=Pocket Flowers
+achievement.pocket_flowers.desc=Pick some cyan roses
+achievement.gone_fishing=Gone Fishin'
+achievement.gone_fishing.desc=Craft a fishing rod using sticks and string
+achievement.ai_pathfinding=AI Pathfinding
+achievement.ai_pathfinding.desc=Make path blocks using a shovel
+achievement.sharing_is_caring=Sharing is Caring
+achievement.sharing_is_caring.desc=Share berries with a fox
+achievement.blast_processing=Blast-Processing
+achievement.blast_processing.desc=Craft a forge using basalt
+achievement.dont_tread_on_me=Don't Tread On Me
+achievement.dont_tread_on_me.desc=Step on a magma block
+achievement.a_sticky_situation=A Sticky Situation
+achievement.a_sticky_situation.desc=Steal honeycomb from a wasp nest
+achievement.keeps_getting_better=Keeps Getting Better
+achievement.keeps_getting_better.desc=Craft a diamond tool
+achievement.melting_point=Melting Point
+achievement.melting_point.desc=Craft a molten tool
+achievement.touch_of_gold=Touch of Gold
+achievement.touch_of_gold.desc=Craft a gold tool
+achievement.no_giants_harmed=No Giants Harmed
+achievement.no_giants_harmed.desc=Loot an obsidian tool from a dungeon
+achievement.incinerate_this=Incinerate This!
+achievement.incinerate_this.desc=Craft an incinerator using basalt bricks and a forge
+achievement.waspkeeper=Waspkeeper
+achievement.waspkeeper.desc=Craft an artificial hive using planks and honeycomb
+achievement.gated_community=Gated Community
+achievement.gated_community.desc=Craft a fence gate using sticks and planks
+achievement.a_wrench_in_the_works=A Wrench in The Works
+achievement.a_wrench_in_the_works.desc=Craft a wrench and use it to rotate a block
+achievement.bramble_on=Bramble On
+achievement.bramble_on.desc=Step on a bramble block
+achievement.filia_diaboli=Filia Diaboli
+achievement.filia_diaboli.desc=Survive and defeat a Demon
+achievement.pocket_hotter_flowers=Pocket Hotter Flowers
+achievement.pocket_hotter_flowers.desc=Pick some Diabolums from the Nether
+achievement.battle_against_a_dangerous_foe=Battle Against A Dangerous Foe
+achievement.battle_against_a_dangerous_foe.desc=Survive and defeat a Stroldian
+achievement.the_reindev_pipeline=The ReIndev Pipeline
+achievement.the_reindev_pipeline.desc=Shove one of your tamed furry friends into an empty bucket
+achievement.beneath_dusk=Beneath Dusk
+achievement.beneath_dusk.desc=Survive and defeat a Scaribou
+achievement.it_wants_out=It Wants Out
+achievement.it_wants_out.desc=Free a morevil lantern
+achievement.quite_the_corundum=Quite the Corundum
+achievement.quite_the_corundum.desc=Smelt corundum scrap in a forge
+achievement.golden_thumb=Golden Thumb
+achievement.golden_thumb.desc=Breed and harvest a golden or silver flower
+achievement.freeze_this=Freeze This!
+achievement.freeze_this.desc=Craft a refridgifreezer using 8 ice and a chest
+achievement.smoothie_criminal=Smoothie Criminal
+achievement.smoothie_criminal.desc=Create a smoothie using fruit in a refridgifreezer
+achievement.upward_bound=Upward Bound
+achievement.upward_bound.desc=Ascend far above the clouds and discover what lies above
+achievement.cute_and_deadly=Cute and Deadly
+achievement.cute_and_deadly.desc=Defeat a wyvern
+achievement.cute_and_not_so_deadly=Cute and (Not So) Deadly
+achievement.cute_and_not_so_deadly.desc=Craft a flower crown using 8 blossoming leaves to disinterest wyverns
+achievement.pie_flavor=Pie Flavor
+achievement.pie_flavor.desc=Cook a pie using 3 blueberries, 2 wheat, and 1 sugar
+achievement.pretty_pristine_perfect=Pretty, Pristine, Perfect
+achievement.pretty_pristine_perfect.desc=Harvest a perfect blossom
+achievement.cut_me_some_slag=Cut Me Some Slag
+achievement.cut_me_some_slag.desc=Survive...? stepping on a smouldering bombush
+achievement.warp_zone=Warp Zone
+achievement.warp_zone.desc=Store items across dimensions by crafting a dimensional chest using 8 augmentite blocks
+achievement.under_lock_and_key=Under Lock and Key
+achievement.under_lock_and_key.desc=Unlock a nether dungeon chest using a dungeon key
+
+achievement.empty=
+achievement.empty.desc=
+
+#============================#
+#                            #
+#LANGUAGE ADDON LANGUAGE KEYS#
+#                            #
+#============================#
+
+gui.crash.copy=Copy Error
+gui.crash.restart=Restart Game
+gui.crash.restart.fail=Restart Failed :(
+
+multiplayer.connecting=Connecting to
+disconnect.loginFailedInfo=Invalid session (Try relogging in the launcher you use and then restarting your game)
+disconnect.invalidAddress=Invalid IP address: %s

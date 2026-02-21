@@ -1,0 +1,67 @@
+Diamond tools get faster the more you use them.
+Gold tools have a 'silk touch' ability.
+Stone tools have a 'fortune' ability on certain blocks.
+Molten tools have a 'smelt touch' ability and can set mobs on fire!
+Obsidian tools are extremely durable and can be found in dungeons.
+You can make molten tools by combining an iron tool and a lava bucket.
+Wyverns are neutral mobs.. at day.
+Different fish give certain effects.  Try them in potion-making!
+Incinerators can turn unwanted waste into ash or coal.
+Potions can be made by combining different items in a cauldron.  Try it out!
+If you're unsure if its quicksand, try throwing an item on it first.
+Quicksand and gravel drop useful items when mined with stone tools.
+Scaribous can be spotted by their footsteps they leave behind.
+Relays repeat a gear-signal.
+Wait blocks repeat and delay a gear-signal.
+NOT gates output an inverted input.
+AND gates require both inputs be active to produce an output.
+OR gates produce an output when either input is active.
+XOR gates produce and output only if 1 of its inputs is active.
+Build above or look to the sky, there might be remarkable places to be found!
+You can find or craft sticky torches, they can be thrown like snowballs to light up unreachable places.
+Refridgifreezers can 'chill' certain items.
+Fire charges, lightning charges, and toxic charges apply unique attributes to potions.
+Hanging roots and dead bushes drop sticks when mined.
+Crates are a great portable storage container.
+Drawers are a great way to store vast quantities of certain items.
+Pigs are sentient.  Do not disturb them.
+You can pick up your vulpine friends with an empty bucket.
+Name tags are crafted with 1 paper and 1 string and can be used to make mobs not despawn, or apply a cool name to an item or mob.  Use a name tag on a crafting table to apply a name to it.
+You can pick up a small slime with a bucket to find where slime chunks are.  Or to just have a cool adventuring buddy.
+Flowers can breed new exotic flowers when grown on farmland.
+Foxes love balls!
+You can make bouncy balls with 1 slimeball and 1 of any dye!
+You can color-code your storage by using colored chests.
+Dynamite can by made splitting TNT in a crafting table.  Rocket-jumping ahoy!
+Got a bunch of fish you don't want?  Make them into fish stew!
+Wrenches can be used to rotate or change aspects of certain blocks.
+Swiftness effects flight speed.
+Cloud blocks negate fall damage.
+Paintings can be reset after being used by placing them into a crafting table.
+Wearing a glass block will let you breathe underwater.
+Sponges can be powered by gears.
+You can remove items from a table using a wrench.
+Lilypads can be grown in a cauldron to make more waterlilies!
+Brown dye can be made by either cooking brown mushrooms in a furnace, or by combining red and green dye.
+Obsidian can be made by freezing a lava bucket in a refrigdifreezer.
+Sand can be made by freezing soul sand in a refridgifreezer.
+Ice blocks can be made by freezing a water bucket in a refridgifreezer.
+Netherrack can be made into cobblestone by freezing it in a refridgifreezer.
+Bonefish can be made into bone meal.
+Cauldrons produce particles when their held fluid is ready to be made into a potion.
+Watermelon slices can stack to 64, but will only occasionally heal you.
+The Construction effect gives you increased block placement range and faster placing speed.
+Ever dreamt about cheese?  Now it's a reality!  Yes, really!  Cook a milk bucket, eat a horse!
+Artificial hives speed up the growth of nearby crops.
+You can stack buckets! ...well, the golden type anyways.
+Feeling lucky?  Test your luck with a four-leaf clover!  No rainbows to point at it though...
+You can make fancy furniture items!  Even ones made of stone and glass too!
+In the mood to eat something frosty and delicious?  Try mixing it up by making ice cream using a bowl, milk, and ice!
+With a single potion, some gunpowder, and leather, you too can create fiery cocktails of mass destruction.
+You can make.. brickshelves..?
+Make your furnaces extra tough by surrounding them with basalt to create forges!
+Flowers can spread to adjacent farmland, though you may want to keep them away from your crops...
+Bricks can be thrown!  Just don't throw them at glass.
+Don't place a brick block on top of a glass table.
+Combining ash, gravel, and dye, makes stucco.
+Obsidian tools can be repaired using Obsidian Tool Repair Kits, found in Nether dungeons.

@@ -1,0 +1,539 @@
+Now with built-in shovel-attachment!
+Dream of bedbugs tonight!
+Tony Zaret approved!
+Taxation without representation!
+Watch out for the worms!
+Pool's closed due to scaribou!
+Also try Quake!
+Also try Quake II!
+Never throw bricks!
+:3
+:3c
+:)
+:(
+:D
+D:
+>:)
+>:(
+The walls are moving!
+Hope you have an unforgettable luncheon!
+Now with flavored fire!
+An alternate reality game!
+Almost factual!
+Lorem Ipsum!
+Me too, kid!
+Get cat!
+So retro!
+463 command blocks!
+Hog topic strikes again!
+Only in the state of Kansas!
+ReFoxdev!
+From gravel to greatness!
+Who turned up the heat?
+Indev not included!
+70% pineapple free!
+Up, up and away!
+Don't knock it!
+May contain traces of wyverns!
+Now with golden cherries!
+Does not contain peanuts!
+Aromatic floral beverages!
+It happens to the best of us!
+Hand me my shovel!
+Invisible deerfolk!
+Disclaimer: Cherry wood isn't edible.
+Supportive!
+Limitless!
+Now with maggots! In buckets!
+It wants out!
+We let you dig deeper!
+Now with luminscent conoids!
+The thing you can't §ncomprehend§r is §g§ktruth§r.
+Waking up so relieved!
+Based and fox-pilled!
+Minecraft ReIndev presents: Disgusting Bugs
+You look awesome!
+Thousands of colors!
+/give @a §bt§dr§fa§dn§bs§r_rights 64
+You're valid!
+Build taller!
+Build deeper!
+Build bigger!
+Build better!
+Be yourself!
+you.isCool = true;
+In case it isn't obvious, foxes aren't players.
+I thought that would be big news.
+You thought what would be big news?
+Removed SCP-4335!
+The ore storage blocks get a bit quirky at night.
+bypassMaximumMetadataLimit = true;
+*pours milk on your fennec*
+Quasi-connectivity included!
+The best part of waking up!
+The swampiest swamps are known for their swampiness worldwide!
+Don't crack eggs, build nests!
+Look mom, no head!
+Past from the blast!
+Out of this world!
+Egg-plenty!
+100% Redstone free!
+Colored crates and logic gates!
+A fine addition to my collection!
+All our food keeps blowing up!
+Fumo? Fumo.
+Ran by foxes!
+Build up!
+Right click a fox to get cuddles!
+Your grandma's Minecraft, reimagined!
+Entirely frogless!
+Heed my words!
+50% Notch code, 50% foxes!
+A fox and a ball enter a bar!
+You can now play as Luigi.
+Nice skin!
+Now with cheesy lava!
+Replaced molten cheese with blood?
+Absolutely proprietary!
+Sentry down!
+Don't forget your keys!
+Refridgifreezed!
+Better than Indev (probably)!
+Put on the maid outfit!
+But can it run DOOM?
+Thought you could outwit a pumpkin?
+Make sure you got the RAM to spare!
+Game of the summer!
+Rest easy, it's not turn-based!
+Special Spaghetti Code Edition!
+Merp included!
+Made by Hatsune Miku!
+Except in Nebraska!
+Recommended by 9 out of 10 dentists!
+Now with 100% more denim!
+Rock and Stone!
+Dopefish lives!
+Absolutely Dopefish-Free!
+Origin of the pumpkin-spice flavored bricks!
+Always here for all your fox needs!
+Filled to the brim with neologisms!
+Always knows your location!
+Get Psyched!
+Modded!
+Cleveland Brown!
+Try our sister mod, ReOutdev!
+Minecoin free!
+Not for browsers!
+Haha, that's a reference!
+Don't express your opinions on the internet!
+4D Perlin noise!
+More polygons than Terraria!
+Always comes back with the milk!
+Marketplace not included!
+Now with NBT!
+Eye-catching 3D graphics!
+Wasp marbles included!
+Why do we even call these splash texts? I don't see any water.
+I'm gonna make my own Minecraft! With blackjack, and foxes!
+Made on a computer!
+Sorry, but 77 + 33 does not equal 100.
+Now available for Gameboy Color!
+Played by thousands worldwide!
+Incompatible with DOS!
+Can't run on an IBM 5100!
+Gave me a hug!
+Localized entirely within your kitchen!
+Cogs in the machine!
+99% dragon-free!
+Foxes and wasps and wyverns, oh my!
+Diggy diggy hole!
+Lagomorph Free!
+Worse than Adventure!
+Combat Update was a good update!
+You must dye!
+idspispopd!
+Is it working?
+Radical!
+What ever a meal one could make with a slop or a slime!
+On the topic of spruce, Wooden Sword!
+Vulpes vulpes!
+Now with actual oceans!
+Lave included!
+No more nuzzles!
+The sky is *far* from the limit!
+Cubic chunks!
+Knows where you live!
+Surprisingly infinite worlds!
+Not an Indev mod!
+Score: &e0!
+Now with furnaces!
+Dungeon Parties!
+Gears and Cogs!
+Forge free!
+Risugami free!
+I can quit any time!
+Quittable any time!
+No longer BreakBuild!
+Explosive!
+As seen on everywhere!
+Better Than Bedrock!
+Public members galore!
+Totally unmodified!
+Flower cows!
+Wyverns aren't dragons!
+Camo Regrow Fortified Ceramics!
+Putting foxes in buckets!
+Putting the "Re" in hexylresorcinol!
+No longer 100% dragon free!
+Plug n' Play!
+Not on the vanilla launcher!
+Shareware!
+The Shores of Hell!
+Take your revenge!
+Never ever going back to the nether!
+A wrench and a few slabs!
+Botched pig code!
+Forged!
+We didn't start the fire!
+Will never threaten to stab you, and in fact, cannot speak!
+Putting the "Re" in renaissance!
+Not Infiniminer!
+Tastes like 2010!
+I have had 0 sleep in the last 29 hours!
+Now with more watermolne!
+Harry Truman, Doris Day, Red China, Johnny Ray!
+Game over man, game over!
+Our whole universe was in a hot dense state!
+Here comes the sun!
+Your mother should know!
+Won't sell your data!
+Can it run Crysis?
+Lambda controls!
+No native controller support (yet)!
+99% Java, 1% ???
+Hello, mine turtle!
+[input funny text here]
+Forklift certified!
+WWW is slower to say than World Wide Web!
+Surprisingly meta!
+Splash generator!
+Thy fish consumed!
+Technically Beta!
+Too many splashes!
+Not enough splashes!
+Just enough splashes!
+Chunk errors!
+100% dragon free... Again!
+Supports... uhhh... something!
+More powerful than you could possibly imagine!
+Sign my petition!
+A lot of hoopla!
+Totally not cake!
+This is where the fun begins!
+Not on Forge or Fabric!
+Mojang Specifications!
+Jumping torches!
+Congratulations, you won!
+Fruity!
+The sacred texts!
+Neon grass!
+Blue roses too!
+Trees of green!
+Runs on 2001 hardware!
+Squish that cat!
+What grinds my gears!
+Incinerated!
+There's always a bigger fish!
+He's already here!
+Screw the Nether!
+Better than Brickshelves!
+Buckets of Foxes!
+Not compatible with BTA!
+Still not whitelisted!
+Red Bed Redemption!
+I can't take this anymore! *greebles your cubes*
+You would not believe your eyes!
+Endorsed by Noptch!
+Man, I love foxes!
+Noptch Was Here
+Beautiful neon green grass!
+Quality Notchcode!
+What about a bottle of water?
+Mining at night is actually much safer than it is at day!
+I swear that said "Minceraft"!
+Enjoyertastic!
+Do not the fence!
+Flight is disabled on this server!
+It's time to build an abomination!
+Indev 2: Electric Boogaloo
+This one's got chairs!
+Man, we wear crocs!
+Don't press W, A, S, or D
+You have mere seconds
+new Integer(null);
+Pinning your own messages!
+The worldgen does get a bit quirky at times
+Going to find out who asked!
+https://discord.gg/HdnUrEEtj9
+Woo! ReIndev Discord!
+Now with upside-down upside-down stairs!
+This splash wasted 37 bytes of data
+I'm using tilt controls!
+Now you're thinking like Mojang!
+Furnace Minecart Supremacy!
+Divide by 0!
+Epic embed fail!
+Walking bugs! Flying bugs! Swimming bugs!
+Everything is broken!
+Water cooled!
+Brick, paper, sword!
+Is this water cooling?
+Corn on the tesseract!
+GL_DEATH_TEST
+Now with 40% more memory leaks!
+Can you believe it guys? Just a week away, just a week!
+And I think I found a way. That's right, we're gonna cheat!
+missingtex
+This will drastically effect the fishing season
+Strawberries imply the existence of grassberries and hayberries
+STEVE IS YOU
+ALL YOUR BLOCKS ARE BELONG TO US
+Consequence of the Industrial Revolution
+Draws me in every time!
+Minor inconvenience
+Sand supremacy, cobblestone stinks
+Say camera! *takes photo with the cheese*
+Instructions unclear, accidentally cooked dog.
+Smells like sadness, but tastes like chicken!
+The classic switcharoo, take their sandwich and give them cardboard
+Don't ask.
+Foiled again
+oh?
+Also try Minecraft Diverge!
+Also try Mango Pack!
+Also try Back in Time!
+Also try The Original Infdev Vision!
+Also try Adventure+!
+Also try The Right Branch of Development!
+Also try New Frontier Craft!
+Also try NSSS!
+Also try RubyRevived!
+Also try Indev Ultimate!
+Also try Infdev Ultimate!
+Also try Better Than Adventure!
+Also try CliffBlaster!
+Also try Lilypad!
+Also try Legacy+!
+Also try Dusk!
+Also try Ultrakill!
+Also try Amid Evil!
+Also try Bloons TD!
+Also try Classicube!
+Also try Celeste!
+Also try Pizza Tower!
+Nutritional!
+Forever and forever!
+Come back in about .2 updates or so
+Tomato tomato!
+Don't like the taste of Java? Try DarkBASIC Professional!
+Now can I interest you in the purchasing of any of our wares?
+I hate auditory hallucinations!
+I have never in my life been alerted to your existence.
+You got no sauce, no paper, no clout, no juice
+Zmiley's Flower!
+Warning, dangerous anomaly known as TWITTER approaching.
+Great argument!
+Wait, it's'llacontraction?
+Before was was was, was was is
+End of Stream
+Distortion Bucket 11: The Awakening
+Press ALT+F4 to be placed on our do-not-call list.
+Whoops! You have to the CD into your computer
+It's not just a boulder, it's a rock!
+May contain nuts, dairy, shellfish, your mom, and 15 other allergens!
+A pigman army is approaching from the west!
+A pigman army is approaching from the east!
+A pigman army has arrived!
+Spawnpoint set!
+Dig, Peon, Dig! Wait, wrong game.
+The dog absorbs the splash.
+Here comes the airplane!
+We do not condone piracy
+Say no more!
+*violent guitar playing*
+My favorite splash text is:
+My favorite block is:
+My favorite item is:
+My favorite mob is:
+This splash goes hard, feel free to copy and paste
+A never-ending spiral of madness!
+Another gator got in the house! Another gator? Gimme that shovel!
+Conclusion reached, good idea
+Erdoo erdoo, system shutdown! Erdoo erdoo, system shutdown!
+Who? What? Where? When? Why? How?
+This splash would be a witty remark or reference, but I'm out of ideas.
+Exactly!
+java.lang.NullPointerException
+This sentence is true!
+This sentence is false!
+Your free trial of existence has expired
+Loads of flowers!
+Hot splash texts available in your area!
+A broken clock is right twice a day, but how many times is it left?
+This splash is essentially a duplicate of the next splash
+This splash is essentially a duplicate of the previous splash
+Chunk errors are just vanilla x-ray!
+At least 4 fundamental forces!
+Itsa me, copyright infringio!
+Make a mountain out of a molehill, I dare you. Oh wait we don't have molehills
+Go ahead, take a nice nap in the Nether, see what happens.
+New beta 1.7.3 flavors!
+Dragon Schragon!
+System.out.print("Hello World!");
+Splash loading hazy, try again later.
+[INSERT SOMETHING COMICAL HERE]
+Who's tongue is that?
+Now with pet rocks!
+That's foxtastic!
+I Can't Believe It's Not Indev!
+Now with 20% more trapdoors!
+Gluten-free, fat-free, sugar-free, salt-free, and bottom quark-free!
+What could possibly go wrong?
+Duly noted, and ignored!
+Some assembly required
+Starter house not included
+The splash text can't hurt you... or can it?
+I know what the fox says, but I'm not telling you.
+Stop! This is a suggestions channel!
+'Go big or go home' they said. Well, I'm going home.
+:foxhappy:
+Every copy is personalized
+Now with 50% more melon rinds!
+Autominer not included
+[hyperlink blocked]
+Better than Better Than Adventure!
+Now with carpets and fleas!
+[this splash text is now available]
+Now with thicker bricks!
+www.youtube.com/watch?v=dQw4w9WgXcQ
+Check out STAPI!
+And I!
+Intentional Game Design!
+40% bug free!
+Run, coward! I hunger!
+Absolutely fixed relatively broken coordinates!
+Any computer is a laptop if you're brave enough!
+Rule #1: it's never my fault
+And my pickaxe!
+The cutest predator you'll ever meet!
+Now you are thinking with pistons!
+Finally with ladders!
+The title screen blocks are random!
+A cat eating slimes!
+At Doom's Gate!
+What the dog doin'!
+Fluffier clouds!
+Next time eat a salad!
+Slimy creatures!
+Re-in-development!
+Obsidian tools!
+Pre-beta!
+As seen on TV!
+Awesome!
+100% pure!
+May contain nuts!
+More polygons!
+Limited edition!
+Flashing letters!
+Coming soon!
+Best in class!
+When it's finished!
+Absolutely dragon free!
+Excitement!
+More than 5000 sold!
+One of a kind!
+700+ hits on YouTube!
+Indev!
+Spiders everywhere!
+Check it out!
+Holy cow, man!
+It's a game!
+Made in Sweden!
+Uses LWJGL!
+Reticulating splines!
+Minecraft!
+Yaaay!
+Singleplayer!
+Keyboard compatible!
+Undocumented!
+Ingots!
+Exploding creepers!
+That's not a moon!
+l33t!
+Create!
+Survive!
+Dungeon!
+Exclusive!
+The bee's knees!
+Down with O.P.P.!
+Closed source!
+Classy!
+Wow!
+Not on steam!
+9.95 euro!
+Half price!
+Oh man!
+Check it out!
+Awesome community!
+Pixels!
+Teetsuuuuoooo!
+Kaaneeeedaaaa!
+Now with difficulty!
+Enhanced!
+90% bug free!
+Pretty!
+12 herbs and spices!
+Fat free!
+Absolutely no memes!
+Free dental!
+Ask your doctor!
+Cloud computing!
+Legal in Finland!
+Hard to label!
+Technically good!
+Bringing home the bacon!
+Indie!
+GOTY!
+Ceci n'est pas une title screen!
+Euclidian!
+Now in 3D!
+Inspirational!
+Herregud!
+Complex cellular automata!
+Yes, sir!
+Played by cowboys!
+OpenGL 1.1!
+Thousands of colors!
+Try it!
+Age of Wonders is better!
+Try the mushroom stew!
+Sensational!
+Hot tamale, hot hot tamale!
+Play him off, keyboard cat!
+Guaranteed!
+Macroscopic!
+Bring it on!
+Random splash!
+Call your mother!
+Monster infighting!
+Loved by millions!
+Ultimate edition!
+Freaky!
+You've got a brand new key!
+Water proof!
+Uninflammable!
+Whoa, dude!
+All inclusive!
+Tell your friends!
+NP is not in P!
+Music by C418!
