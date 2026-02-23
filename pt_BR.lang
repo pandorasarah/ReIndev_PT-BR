@@ -1658,7 +1658,7 @@ tile.slab.acidshell_rock.name=Laje de Rocha de Conchácida
 tile.slab.flesh_brick.name=Laje de Tijolos de Carne
 tile.slab.cinderbrick.name=Laje de Tijolos de Cinzas
 
-Escadas de
+# stairs
 tile.stair.stone.name=Escadas de Pedra
 tile.stair.stone_brick.name=Escadas de Tijolos de Pedra
 tile.stair.polished_stone_brick.name=Escadas de Tijolos de Pedra Polida
@@ -1717,7 +1717,7 @@ tile.stair.granite.name=Escadas de Granito
 tile.stair.scoria_brick.name=Escadas de Tijolos de Escória
 tile.stair.granite_brick.name=Escadas de Tijolos de Granito
 tile.stair.salsa_brick.name=Escadas de Salsa
-tile.stair.limescoric_brick.name=Escadas de Calcóia
+tile.stair.limescoric_brick.name=Escadas de Calcória
 tile.stair.graniscoric_brick.name=Escadas de Graniscória
 tile.stair.coquina_brick.name=Escadas de Tijolos de Coquina
 tile.stair.acidshell_brick.name=Escadas de Tijolos de Conchácida
