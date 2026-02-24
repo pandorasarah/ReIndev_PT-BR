@@ -1,67 +1,67 @@
-Diamond tools get faster the more you use them.
-Gold tools have a 'silk touch' ability.
-Stone tools have a 'fortune' ability on certain blocks.
-Molten tools have a 'smelt touch' ability and can set mobs on fire!
-Obsidian tools are extremely durable and can be found in dungeons.
-You can make molten tools by combining an iron tool and a lava bucket.
-Wyverns are neutral mobs.. at day.
-Different fish give certain effects.  Try them in potion-making!
-Incinerators can turn unwanted waste into ash or coal.
-Potions can be made by combining different items in a cauldron.  Try it out!
-If you're unsure if its quicksand, try throwing an item on it first.
-Quicksand and gravel drop useful items when mined with stone tools.
-Scaribous can be spotted by their footsteps they leave behind.
-Relays repeat a gear-signal.
-Wait blocks repeat and delay a gear-signal.
-NOT gates output an inverted input.
-AND gates require both inputs be active to produce an output.
-OR gates produce an output when either input is active.
-XOR gates produce and output only if 1 of its inputs is active.
-Build above or look to the sky, there might be remarkable places to be found!
-You can find or craft sticky torches, they can be thrown like snowballs to light up unreachable places.
-Refridgifreezers can 'chill' certain items.
-Fire charges, lightning charges, and toxic charges apply unique attributes to potions.
-Hanging roots and dead bushes drop sticks when mined.
-Crates are a great portable storage container.
-Drawers are a great way to store vast quantities of certain items.
-Pigs are sentient.  Do not disturb them.
-You can pick up your vulpine friends with an empty bucket.
-Name tags are crafted with 1 paper and 1 string and can be used to make mobs not despawn, or apply a cool name to an item or mob.  Use a name tag on a crafting table to apply a name to it.
-You can pick up a small slime with a bucket to find where slime chunks are.  Or to just have a cool adventuring buddy.
-Flowers can breed new exotic flowers when grown on farmland.
-Foxes love balls!
-You can make bouncy balls with 1 slimeball and 1 of any dye!
-You can color-code your storage by using colored chests.
-Dynamite can by made splitting TNT in a crafting table.  Rocket-jumping ahoy!
-Got a bunch of fish you don't want?  Make them into fish stew!
-Wrenches can be used to rotate or change aspects of certain blocks.
-Swiftness effects flight speed.
-Cloud blocks negate fall damage.
-Paintings can be reset after being used by placing them into a crafting table.
-Wearing a glass block will let you breathe underwater.
-Sponges can be powered by gears.
-You can remove items from a table using a wrench.
-Lilypads can be grown in a cauldron to make more waterlilies!
-Brown dye can be made by either cooking brown mushrooms in a furnace, or by combining red and green dye.
-Obsidian can be made by freezing a lava bucket in a refrigdifreezer.
-Sand can be made by freezing soul sand in a refridgifreezer.
-Ice blocks can be made by freezing a water bucket in a refridgifreezer.
-Netherrack can be made into cobblestone by freezing it in a refridgifreezer.
-Bonefish can be made into bone meal.
-Cauldrons produce particles when their held fluid is ready to be made into a potion.
-Watermelon slices can stack to 64, but will only occasionally heal you.
-The Construction effect gives you increased block placement range and faster placing speed.
-Ever dreamt about cheese?  Now it's a reality!  Yes, really!  Cook a milk bucket, eat a horse!
-Artificial hives speed up the growth of nearby crops.
-You can stack buckets! ...well, the golden type anyways.
-Feeling lucky?  Test your luck with a four-leaf clover!  No rainbows to point at it though...
-You can make fancy furniture items!  Even ones made of stone and glass too!
-In the mood to eat something frosty and delicious?  Try mixing it up by making ice cream using a bowl, milk, and ice!
-With a single potion, some gunpowder, and leather, you too can create fiery cocktails of mass destruction.
-You can make.. brickshelves..?
-Make your furnaces extra tough by surrounding them with basalt to create forges!
-Flowers can spread to adjacent farmland, though you may want to keep them away from your crops...
-Bricks can be thrown!  Just don't throw them at glass.
-Don't place a brick block on top of a glass table.
-Combining ash, gravel, and dye, makes stucco.
-Obsidian tools can be repaired using Obsidian Tool Repair Kits, found in Nether dungeons.
+Ferramentas de diamante ficam mais rápidas quanto mais você as usa.
+Ferramentas de ouro têm habilidade de 'toque suave'.
+Ferramentas de pedra têm habilidade de 'fortuna' em certos blocos.
+Ferramentas derretidas têm habilidade de 'toque aquecido' e podem atear fogo em criaturas!
+Ferramentas de obsidiana são extremamente duráveis e podem ser achadas em masmorras.
+Você pode fazer ferramentas derretidas combinando uma ferramenta de ferro e um balde de lava.
+Serpes são criaturas neutras.. durante o dia.
+Peixes diferentes dão certos efeitos.  Tente fazer uma poção com eles!
+Incineradores podem transformar seu lixo em cinzas ou carvão.
+Poções podem ser feitas combinando itens diferentes em caldeirões.  Experimente!
+Se você não tem certeza se é areia movediça, tente jogar um item nela antes.
+Areia movediça e cascalho soltam itens úteis quando quebrados com ferramentas de pedra.
+Scaribous podem ser encontrados pelas pegadas que eles deixam para trás.
+Relés repetem um sinal de engrenagem.
+Bloco de espera repetem e atrasam um sinal de engrenagem.
+Portas NOT emitem um input invertido.
+Portas AND requerem ambos inputs ativos para emitir um output.
+Portas OR emitem um output quando qualquer input está ativo.
+Portas XOR Produzem um output só se 1 dos inputs está ativo.
+Construa alto ou olhe para o céu, podem ter lugar interessantes a serem encontrados!
+Você pode achar ou fabricar tochas grudentas, elas podem ser arremessadas para alcançar lugares distantes.
+Congeladeiras podem 'esfriar' certos itens.
+Bolas de fogo, bolas de raio, e bolas tóxicas aplicam atributos únicos a poções.
+Raízes suspensas e arbustos mortos soltam gravetos quando minerados.
+Caixotes são ótimos containers para carregar.
+Armários são ótimos em guardar vastas quantidades de certos itens.
+Porcos tem consciência.  Não incomode eles.
+Você pode pegar suas raposas amigas com um balde vazio.
+Etiquetas são fabricadas com 1 papel e 1 linha e podem ser usados para criaturas não sumirem, ou para dar um nome legal a um item ou uma criatura.  Use uma etiquetaem uma bancada de trabalho para colocar um nome nela.
+Você pode pegar slimes pequenos em um balde para saber onde ficam chunks de slime.  Ou só pra ter um amiguinho legal.
+Flores podem ser procriadas em novas flores exóticas quando plantadas em terra arada.
+Raposas amam bolas!
+Você pode fazer bolas saltitantes com 1 bola de slime e 1 de qualquer corante!
+Você pode organizar melhor seus itens usando baús coloridos.
+Dinamite pode ser feita dividindo TNT em uma bancada de trabalho.  Hora do Rocket-jump!
+Está com um monte de peixe que você não quer?  Faça um ensopado com eles!
+Chaves inglesas podem ser usadas para rotacionar ou mudar o aspecto de certos blocos.
+Velocidade afeta o voo.
+Blocos de nuvem ignoram dano de queda.
+Pinturas podem ser resetadas colocando elas em uma bancada de trabalho.
+Vestir um bloco de vidro te deixa respirar na água.
+Esponjas podem ser ativadas com engrenagens.
+Você pode tirar itens de uma mesa usando uma chave inglesa.
+Vitórias-Régias podem ser crescidas em um caldeirão para fazer mais Lírios d'Água!
+Corante marrom pode ser feito tanto cozinhando cogumelos marrons em um fornalha, ou juntando corantes vermelho e verde.
+Obsidiana pode ser feita congelando um balde de lava em uma congeladeira.
+Areia pode ser feita congelando areia das almas em uma congeladeira.
+Blocos de gelo podem ser feitos congelando um balde de água em uma congeladeira.
+Pedregulho pode ser feito congelando netherrack em uma congeladeira
+Peixe Osso pode ser transformado em farinha de osso.
+Caldeirõesis produzem partículas quando o líquido está pronto para ser feito em uma poção.
+Fatias de melancia se juntam em até 64, mas só às vezes vão te curar.
+O efeito de Construção te dá alcance estendido e uma velocidade maior em colocar blocos.
+Já sonhou com queijo?  Agora é uma realidade!  Sim, sério!  Cozinhe um balde de leite, coma um cavalo!
+Colmeias artificiais agilizam o crescimento de plantações.
+você pode juntar baldes! ...bem, ao menos os dourados.
+Está com sorte?  Teste ela com um trevo-de-quatro-folhas!  Nenhum arco-íris vai apontar pra ele no entanto...
+Você pode fazer mobílias elegantes!  Até algumas de pedra ou vidro também!
+Com vontade de comer algo geladinho e gostoso?  Experimente fazer sorvete com uma tijela, leite, e gelo!
+Com uma poção, um pouco de pólvora, e couro, você também pode fazer coquetéis de destruição em massa.
+Você pode fazer.. Estantes de tijolos..?
+Torne sua fornalha extra potente colocando ela em volta de basalto para fazer forjas!
+Flores podem se espalhar por terras aradas próximas, mas talvez você queira deixar elas longe da sua plantação...
+Tijolos podem ser jogados!  Só não jogue eles em vidro.
+Não coloque um bloco de tijolo em cima de uma mesa de vidro.
+Combinando cinzas, cascalho, e corante, você faz estuque.
+Ferramentas de obsidiana podem ser reparadas usando Kits de Reparo para Ferramentas de Obsidiana, encontrados em masmorras do Nether.
