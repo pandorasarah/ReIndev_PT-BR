@@ -1,4 +1,4 @@
-title|Português [Brasileiro]
+title|Português [Brasil]
 author|SarahPandora, Mojang Studios
 splashes|splashes-pt_BR.txt
 bidi|false
@@ -31,7 +31,7 @@ menu.multiplayer=Multijogador
 menu.mods=Pacotes de Textura
 menu.tutorial=Jogar Tutorial
 menu.options=Opções
-menu.quit=Sair do jogo
+menu.quit=Sair do Jogo
 menu.credits_button=Créditos
 menu.downloading_assets=Baixando recurso %s/%s
 
@@ -53,7 +53,7 @@ game.splash.anniversary=Feliz Aniversário, ReIndev!
 
 gui.done=Concluído
 gui.cancel=Cancelar
-gui.toMenu=Voltar ao menu principal
+gui.toMenu=Voltar ao Menu Principal
 gui.up=Cima
 gui.down=Baixo
 gui.yes=Sim
@@ -83,11 +83,11 @@ guiVideo.other=Outros...
 
 texturePack.incompatible=Incompatível
 texturePack.openFolder=Abrir pasta de pacotes
-texturePack.title=Selecione o Pacote de Texturas
+texturePack.title=Selecionar Pacote de Texturas
 texturePack.folderInfo=(Coloque arquivos dos pacotes de textura aqui)
 
 languagePack.openFolder=Abrir pasta de idiomas
-languagePack.title=Selecione o Idioma
+languagePack.title=Selecionar Idioma
 languagePack.folderInfo=(Coloque arquivos dos pacotes de idioma aqui)
 
 screenshot.success=Salvo captura de tela como %s
@@ -170,7 +170,7 @@ inventory.incinerator=Incinerador
 inventory.refridgifreezer=Congeladeira
 inventory.carpentry_table=Bancada de Carpintaria
 inventory.dimensional_chest=Baú Dimensional
-inventory.creative=Seleção de item
+inventory.creative=Seleção de Item
 inventory.search=Buscar...
 
 inventory.creative_mode_tab.inventory=Inventário
@@ -277,7 +277,7 @@ selectServer.select=Entrar
 selectServer.direct=Conexão Direta
 selectServer.edit=Editar
 selectServer.delete=Apagar
-selectServer.add=Adicionar servidor
+selectServer.add=Adicionar Servidor
 selectServer.defaultName=Minecraft Server
 selectServer.deleteQuestion=Tem certeza que deseja remover este servidor?
 selectServer.deleteWarning=será perdido para sempre! (Muito tempo!)
@@ -291,7 +291,7 @@ selectServer.error.communication=Erro de comunicação
 selectServer.outdated.client=Cliente desatualizado!
 selectServer.outdated.server=Servidor desatualizado!
 selectServer.noConnection=(sem conexão)
-addServer.title=Editar informações do servidor
+addServer.title=Editar Informações do Servidor
 addServer.enterName=Nome do Servidor
 addServer.enterIp=Endereço do Servidor
 addServer.add=Concluído
@@ -322,7 +322,7 @@ options.invertMouse=Inverter Mouse
 options.sensitivity=Sensibilidade
 options.sensitivity.min=*uaah...*
 options.sensitivity.max=HIPER-RAPIDA!!!
-options.renderDistance=Alcance visual
+options.renderDistance=Alcance Visual
 options.renderDistance.tiny=Mínima
 options.renderDistance.short=Curta
 options.renderDistance.normal=Normal
@@ -344,7 +344,7 @@ options.cloudsEnabled=Núvens
 options.forceUnicodeFont=Forçar fonte unicode
 options.graphics.fancy=Bonitos
 options.graphics.fast=Rápidos
-options.guiScale=Tamanho da Interface
+options.guiScale=Escala da Interface
 options.guiScale.auto=Auto
 options.guiScale.small=1
 options.guiScale.normal=2
@@ -1277,22 +1277,22 @@ tile.azure_bookshelf.name=Estante de Livros Azure
 tile.thistlewood_bookshelf.name=Estante de Livros de Cardo
 
 # ladders & variants
-tile.ladder.name=Escada
-tile.oak_ladder.name=Escada de Carvalho
-tile.crimson_ladder.name=Escada Carmesim
-tile.fir_ladder.name=Escada de Abeto
-tile.cherry_ladder.name=Escada de Cerejeira
-tile.spruce_ladder.name=Escada de Pinheiro
-tile.ebony_ladder.name=Escada de Ébano
-tile.azure_ladder.name=Escada Azure
-tile.thistlewood_ladder.name=Escada de Cardo
-tile.iron_ladder.name=Escada de Ferro
-tile.gold_ladder.name=Escada de Ouro
-tile.sugar_cane_ladder.name=Escada de Cana-de-açúcar
-tile.bone_ladder.name=Escada de Osso
-tile.stone_ladder.name=Escada de Pedra
-tile.brimstone_ladder.name=Escada de Pedrardente
-tile.cloudstone_ladder.name=Escada de Pedra-nuvem
+tile.ladder.name=Escada de Mão
+tile.oak_ladder.name=Escada de Mão de Carvalho
+tile.crimson_ladder.name=Escada de Mão Carmesim
+tile.fir_ladder.name=Escada de Mão de Abeto
+tile.cherry_ladder.name=Escada de Mão de Cerejeira
+tile.spruce_ladder.name=Escada de Mão de Pinheiro
+tile.ebony_ladder.name=Escada de Mão de Ébano
+tile.azure_ladder.name=Escada de Mão Azure
+tile.thistlewood_ladder.name=Escada de Mão de Cardo
+tile.iron_ladder.name=Escada de Mão de Ferro
+tile.gold_ladder.name=Escada de Mão de Ouro
+tile.sugar_cane_ladder.name=Escada de Mão de Cana-de-açúcar
+tile.bone_ladder.name=Escada de Mão de Osso
+tile.stone_ladder.name=Escada de Mão de Pedra
+tile.brimstone_ladder.name=Escada de Mão de Pedrardente
+tile.cloudstone_ladder.name=Escada de Mão de Pedra-nuvem
 
 # trapdoors
 tile.oak_trapdoor.name=Alçapão de Carvalho
@@ -1789,7 +1789,7 @@ tile.and_gate.name=Porta AND
 tile.or_gate.name=Porta OR
 tile.xor_gate.name=Porta XOR
 tile.conveyor_belt.name=Esteira
-tile.tnt.name=TNT
+tile.tnt.name=Bloco de Dinamite
 tile.pistonBase.name=Pistão
 tile.pistonStickyBase.name=Pistão Grudento 
 tile.dispenser.name=Ejetor
@@ -2164,12 +2164,12 @@ item.gold_pig_armor.name=Armadura de Ouro para Porco
 item.diamond_pig_armor.name=Armadura de Diamante para Porco
 item.augmentite_pig_armor.name=Armadura de Aumentita para Porco
 item.boat.name=Bote
-item.minecart.name=Carrinho de Mina
-item.minecart_with_chest.name=Carrinho de Mina com Baú
-item.minecart_with_furnace.name=Carrinho de Mina com Fornalha
+item.minecart.name=Carrinho
+item.minecart_with_chest.name=Carrinho com Baú
+item.minecart_with_furnace.name=Carrinho com Fornalha
 
 # music
-item.record.name=Disco Musical
+item.record.name=Disco de Música
 item.wooden_flute.name=Flauta de Madeira
 item.iron_flute.name=Flauta de Ferro
 item.gold_flute.name=Flauta de Ouro
@@ -2803,10 +2803,10 @@ stat.generalButton=Geral
 stat.blocksButton=Blocos
 stat.itemsButton=Itens
 
-stat.used=Vezes Usados
-stat.mined=Vezes Extraídos
-stat.depleted=Vezes Quebrados
-stat.crafted=Vezes Fabricados
+stat.used=Vezes Usado
+stat.mined=Vezes Minerado
+stat.depleted=Vezes Quebrado
+stat.crafted=Vezes Fabricado
 
 stat.startGame=Vezes Jogado
 stat.createWorld=Mundos Jogados
@@ -2822,7 +2822,7 @@ stat.swimOneCm=Distância Nadada
 stat.flyOneCm=Distância em Voo
 stat.climbOneCm=Distância Escalada
 stat.diveOneCm=Distância Debaixo d'Água
-stat.minecartOneCm=Distância com Carrinhos de Mina
+stat.minecartOneCm=Distância com Carrinhos
 stat.boatOneCm=Distância com Bote
 stat.pigOneCm=Distância com Porco
 stat.jump=Saltos
@@ -2835,7 +2835,7 @@ stat.mobKills=Criaturas Mortas
 stat.playerKills=Jogadores Mortos
 stat.fishCaught=Peixes fisgados
 
-stat.mineBlock=%1$s Extraídos
+stat.mineBlock=%1$s Minerados
 stat.craftItem=%1$s Fabricados
 stat.useItem=%1$s Usados
 stat.breakItem=%1$s Quebrados
@@ -2867,7 +2867,7 @@ achievement.getting_an_upgrade.desc=Faça uma ferramenta de pedra
 achievement.fast_food=Fast Food
 achievement.fast_food.desc=Asse carne de porco em uma fornalha
 achievement.on_a_rail=Nos Trilhos
-achievement.on_a_rail.desc=Ande de carrinho por pelo menos 1.000 blocos de onde você começou 
+achievement.on_a_rail.desc=Ande de carrinho por pelo menos 1.000 blocos de onde você começou
 achievement.time_to_strike=Hora de Atacar!
 achievement.time_to_strike.desc=Use tábuas e gravetos para fazer uma espada
 achievement.monster_hunter=Caçador de Monstros
